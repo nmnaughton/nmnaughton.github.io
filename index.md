@@ -1,5 +1,8 @@
+---
+layout: default
+---
 
-Hello!
+## Hello!
 
 I am a graduate student at the University of Illinois and my research focuses on computational model of diffusion based magnetic resonance imaging (dMRI).
 
