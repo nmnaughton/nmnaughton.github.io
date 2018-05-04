@@ -5,4 +5,4 @@ I am a graduate student at the University of Illinois and my research focuses on
 
 I am just starting this website so hopefully more will be coming soon!
 
-![Image of me](Noel_Naughton.jpg | width=200)
+![Image of me](Noel_Naughton.jpg){:height="10px" width="10px"}
