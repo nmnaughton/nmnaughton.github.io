@@ -18,9 +18,6 @@ hide_description: true
 # TODO
 image: /assets/img/blog/hydejack-8.png
 ---
----
-layout: default
----
 
 ## Hello!
 
