@@ -18,8 +18,11 @@ hide_description: true
 
 More of a landing page, will briefly describe the overall themes and goals and lay out the main research areas. Essentially explaining the below graphic (which I will probably remake with better images etc.). I will also embed the short video I am making here. This is the broader impacts part.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KDJG7JLhH2M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div class="your-centered-div">
+    
+    <iframe width="560" height="315" src="//https://www.youtube.com/embed/KDJG7JLhH2M" frameborder="0" allowfullscreen></iframe>
+    
+</div>
 
 **Forward Problem**
 
@@ -33,3 +36,21 @@ Image ideas: Difficult to create a graphical representation since this is mostly
 **Mechanical Problem**
 
 If we can predict microstructural information, then how does this help us understand the mechanics of muscle? We use a simple mechancial model to see which parameters most effect muscle properties. We also need to measure properties of the muscle. 
+
+.your-centered-div {
+    width: 560px; /* you have to have a size or this method doesn't work */
+    height: 315px;
+    
+    position: absolute; /* positions according to the nearest parent */
+    top: 0; right: 0; /* confuse it i guess */
+    bottom: 0; left: 0;
+    margin: auto; /* make em equal */
+    
+    border: 1px solid red;
+}
+
+.your-centered-div iframe {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
