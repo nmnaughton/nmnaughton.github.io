@@ -2,7 +2,7 @@
 layout: page
 title: Noel Naughton
 cover: False
-image: /assets/img/hydejack-8.png
+image: /assets/img/REV_final_frame.png
 ---
 
 ## Hello!
