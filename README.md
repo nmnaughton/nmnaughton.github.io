@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Hydejack Starter Kit
 
-You can use the [editor on GitHub](https://github.com/nmnaughton/nmnaughton.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Quick Start
+### Running locally
+1. Clone repository (git users), or [download] and unzip.
+2. Open terminal, `cd` into root directory (where `_config.yml` is located)
+3. `bundle install` [^1]
+4. `bundle exec jekyll serve`
+5. Open <http://localhost:4000/hy-starter-kit/>
 
-### Markdown
+### GitHub Pages
+1. Fork this repository.
+2. Go to **Settings**, rename repository to `<your github username>.github.io` (without the `<` `>`)
+3. Edit `_config.yml` (you can do this directly on GitHub)
+    1. Change `url` to `https://<your github username>.github.io` (without the `<` `>`)
+    2. Change `baseurl` to `''` (empty string)
+    3. **Commit changes**.
+4. Go to **Settings** again, look for **GitHub Pages**, set **Source** to **master branch**.
+5. Click **Save** and wait for GitHub to set up your new blag.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What's next?
+* Open files and read the comments
+* Read the [docs](https://hydejack.com/docs/)
+* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
 
-```markdown
-Syntax highlighted code block
+[^1]: Requires Bundler. Install with `gem install bundler`.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nmnaughton/nmnaughton.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[download]: https://github.com/qwtel/hy-starter-kit/archive/master.zip
