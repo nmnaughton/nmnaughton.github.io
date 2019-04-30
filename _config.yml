@@ -57,11 +57,11 @@ menu:
     url:               /publications/
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-legal:
-  - title:             Impress
-    url:               /impress/
-  - title:             Cookies Policy
-    url:               /cookies-policy/
+# legal:
+#   - title:             Impress
+#     url:               /impress/
+#   - title:             Cookies Policy
+#     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2019. Noel Naughton -- All rights reserved.
