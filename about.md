@@ -17,9 +17,9 @@ hide_description: true
 ---
 
 ## Hello! 
-<img style="float: right;" src="Noel_Naughton.jpg">
+<img style="float: right;" src="Noel_Naughton.jpg" width="200">
 
 I am a finishing my PhD in Mechanical Engieering at the University of Illinois. My research focuses on computational model of diffusion based magnetic resonance imaging (dMRI).
 
-<img style="float: right;" src="Noel_Naughton.jpg">
+<img style="float: right;" src="Noel_Naughton.jpg" width="200">
 
