@@ -17,12 +17,15 @@ hide_description: true
 
 My current research can be broadly organized as three seperate but interrelated problems: 
 
+<img src="/assets/img/project_scheme.pdf" style="float: right;" width="200">
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Forward Problem](#forward-problem)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Inverse Problem](#inverse-problem)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Mechanical Problem](#mechanical-problem)
 
+&nbsp;
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KDJG7JLhH2M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
