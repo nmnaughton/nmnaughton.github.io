@@ -23,7 +23,7 @@ More of a landing page, will briefly describe the overall themes and goals and l
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KDJG7JLhH2M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Forward Problem {: #funky }
+# Forward Problem {: #funky }
 
 ![Full-width image](assets/img/final_frame_hist.png){:.lead data-width="800" data-height="100"}
 A caption for an image.
@@ -36,7 +36,7 @@ This is the numerical solution of the Bloch-Torrey equation.  We can look at how
 How do we go from the dMRI signal to the underlying structure? This includes various modeling attempts such as response surfaces and machine learning. 
 Image ideas: Difficult to create a graphical representation since this is mostly about predicting a single value, however, the idea of sensitivity to the signal might yield good visualization. 
 
-###Mechanical Problem {: #funky1 }
+# Mechanical Problem {: #funky1 }
 
 If we can predict microstructural information, then how does this help us understand the mechanics of muscle? We use a simple mechancial model to see which parameters most effect muscle properties. We also need to measure properties of the muscle. 
 
