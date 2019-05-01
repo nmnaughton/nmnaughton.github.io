@@ -18,6 +18,7 @@ hide_description: true
 
 I am a finishing my PhD in Mechanical Engieering at the University of Illinois. My research focuses on computational model of diffusion based magnetic resonance imaging (dMRI).
 
-![Its Me!](Noel_Naughton.jpg)
+<img src="Noel_Naughton.jpg" width="200"/>
+
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5553-4718" href="https://orcid.org/0000-0002-5553-4718" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-5553-4718</a></div>
