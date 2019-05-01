@@ -1,3 +1,10 @@
 {% comment %}<!--
 Use this add elements to the <head/> of the document.
 -->{% endcomment %}
+
+<header
+{% if page.cover_image %}
+class="cover-banner" 
+style="background-image: url({{ page.cover_image }});"
+{% endif %}
+>
