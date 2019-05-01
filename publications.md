@@ -13,7 +13,7 @@ hide_description: true
 
 ---
 
-## Papers
+## Journal Articles
 
 Naughton, N. , Tennyson C. , and Georgiadis J. , “Comparison of two-compartment exchange and continuum models of dMRI in skeletal muscle,” Journal of Computational Physics, (Under Review).
 
@@ -21,7 +21,7 @@ Naughton, N. and Georgiadis J., “Lattice Boltzmann method for simulation of di
 
 Naughton NM, Plourde BD, Stark JR, Hodis S, Abraham JP. Impacts of waveforms on the fluid flow, wall shear stress, and flow distribution in cerebral aneurysms and the development of a universal reduced pressure. Journal of Biomedical Science and Engineering. 2014 Jan 2;7(01):7. doi: [10.4236/jbise.2014.71002].  
 
-## Conferences
+## Conference Presentations & Posters
 
 “Comparison of dMRI Models for Skeletal Muscle Microstructure Estimations with Numerical Simulations and Myocardial Porcine Phantom” ISMRM Annual Meeting (May 2010), Montreal, Canada (poster)
 
