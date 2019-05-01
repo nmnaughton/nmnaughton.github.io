@@ -8,8 +8,8 @@ title: About Me
 
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
-description: >
+description: > Test this out
 
 # You can show the description on the page by deleting this line:
-hide_description: true
+# hide_description: true
 ---
