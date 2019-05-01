@@ -17,7 +17,7 @@ hide_description: true
 
 My current research can be broadly organized as three seperate but interrelated problems: 
 
-<img src="/assets/img/project_scheme.pdf" style="float: right;" width="200">
+<img src="/assets/img/project_scheme.png" style="float: right;" width="200">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Forward Problem](#forward-problem)
 
