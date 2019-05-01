@@ -11,5 +11,6 @@ title: About Me
 description: > Test this out
 
 # You can show the description on the page by deleting this line:
-# hide_description: true
+hide_description: true
 ---
+<!--author-->
