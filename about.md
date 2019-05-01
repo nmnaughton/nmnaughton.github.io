@@ -21,5 +21,4 @@ hide_description: true
 
 I am a finishing my PhD in Mechanical Engieering at the University of Illinois. My research focuses on computational model of diffusion based magnetic resonance imaging (dMRI).
 
-<img style="float: right;" src="assets/img/final_frame_hist.png" width="200">
-
+<img src="/assets/img/final_frame_hist.png" style="float: right;" data-width="200">
