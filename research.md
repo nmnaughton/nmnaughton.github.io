@@ -13,14 +13,15 @@ description: >
 hide_description: true
 
 ---
+# My Research
+
+My current research can be broadly organized as three seperate but interrelated problems: 
+
 [Forward Problem](#forward-problem)
 
 [Inverse Problem](#inverse-problem)
 
 [Mechanical Problem](#mechanical-problem)
-
-
-# My Research
 
 More of a landing page, will briefly describe the overall themes and goals and lay out the main research areas. Essentially explaining the below graphic (which I will probably remake with better images etc.). I will also embed the short video I am making here. This is the broader impacts part.
 
