@@ -5,5 +5,5 @@ cover: True
 image: /assets/img/REV_final_frame.png
 ---
 
-![Full-width image](assets/img/final_frame_hist.png){:.lead data-width="800" data-height="100"}
+![Full-width image](assets/img/final_frame_hist.png)
 
