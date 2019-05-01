@@ -21,6 +21,7 @@ More of a landing page, will briefly describe the overall themes and goals and l
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KDJG7JLhH2M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Forward Problem**
+<img src="assets/img/final_frame_hist.png" width="200">
 
 This is the numerical solution of the Bloch-Torrey equation.  We can look at how different structures lead to different dMRI measurments, both with histology and simplified muscle models. We use the lattice Boltzmann method to solve the BT equation. 
 
