@@ -1,8 +1,5 @@
 ---
-layout: page
-title: Noel Naughton
-cover: False
-image: /assets/img/hydejack-8.png
+layout: default
 ---
 
 ## Hello!
