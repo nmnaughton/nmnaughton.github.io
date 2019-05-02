@@ -15,9 +15,11 @@ hide_description: true
 ---
 # My Research
 
-My current research can be broadly organized as three seperate but interrelated problems: 
+My current research focuses on measuring the microstrucutre of skeletal muscle. 
 
-<img src="/assets/img/project_scheme.png" style="float: right;" width="200">
+This work can be broadly organized as three seperate but interrelated problems: 
+
+<img src="/assets/img/project_scheme.png" style="float: right;" width="400">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Forward Problem](#forward-problem)
 
@@ -26,7 +28,6 @@ My current research can be broadly organized as three seperate but interrelated 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Mechanical Problem](#mechanical-problem)
 
 &nbsp;
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KDJG7JLhH2M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
