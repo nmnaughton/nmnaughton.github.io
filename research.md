@@ -49,6 +49,7 @@ The first two problems (forward and inverse Problems) relate to the major challe
 <img src="/assets/img/final_frame_hist.png"  width="400">     
 <figcaption>dMRI signal in skeletal muscle</figcaption>
 </figure>
+
 # Forward Problem
 
 The forward problem is concerned with understanding how changes in skeletal muscle microstructure affects the dMRI signal. dMRI is governed by the Bloch-Torrey equation. 
