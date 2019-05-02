@@ -14,9 +14,11 @@ hide_description: true
 
 ---
 
-<figure style="float: right; padding-top:20px;">
+<figure style="float: right; ">
 <img src="/assets/img/microstructure_white.PNG"  width="400">     
 <figcaption>skeletal muscle microstructure</figcaption>
+<figcaption>dMRI of human thigh</figcaption>
+
 </figure>
 
 My current research focus is on non-invasively measuring the microstructure (or cellular organization) of skeletal muscle. Muscle microstrucutre consists of long fibers that are tightly packed together and surrounded by an extracellular collagen matrix. Changes in this microstructure are related to changes in muscle health, so non-invasive measurement of this microstructure should provide new diagnostic tools for assessing muscle health. 
@@ -24,7 +26,7 @@ My current research focus is on non-invasively measuring the microstructure (or 
 I am working on measuring this microstrucutre using diffusion-weighted magnetic resonance imaging (dMRI) and using these measurments to inform mechancial models of muscle microstructure. These mechanical models show how the muscle’s mechancial properties are affected by changes in the microstructure. This work can be broadly organized as three separate but interrelated problems:  
 
 <figure style="float: left; padding-right:20px; padding-top:20px;">
-<img src="/assets/img/dMRI.png"  width="300">
+<img src="/assets/img/dMRI.png"  width="250">
 </figure>
 
 [The Forward Problem](#forward-problem): Understanding how changes in skeletal muscle microstructure affect the dMRI signal.
