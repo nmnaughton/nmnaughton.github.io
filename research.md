@@ -14,16 +14,15 @@ hide_description: true
 
 ---
 
-<figure style="float: right;">
+<figure style="float: right; padding-top:20px;">
 <img src="/assets/img/microstructure_white.PNG"  width="400">     
 <figcaption>skeletal muscle microstructure</figcaption>
 </figure>
 
 My current research focus is on non-invasively measuring the microstructure (or cellular organization) of skeletal muscle. Muscle microstrucutre consists of long fibers that are tightly packed together and surrounded by an extracellular collagen matrix. Changes in this microstructure are related to changes in muscle health, so non-invasive measurement of this microstructure should provide new diagnostic tools for assessing muscle health. 
 
-I am working on measuring this microstrucutre using diffusion-weighted magnetic resonance imaging (dMRI) and using these measurments to inform mechancial models of muscle microstructure. These mechanical models show how the muscle’s mechancial properties are affected by changes in the microstructure. 
+I am working on measuring this microstrucutre using diffusion-weighted magnetic resonance imaging (dMRI) and using these measurments to inform mechancial models of muscle microstructure. These mechanical models show how the muscle’s mechancial properties are affected by changes in the microstructure. This work can be broadly organized as three separate but interrelated problems:  
 
-This work can be broadly organized as three separate but interrelated problems:  
 <figure style="float: left; padding-right:20px; padding-bottom:20px;">
 <img src="/assets/img/project_scheme.png"  width="300" vspace>
 </figure>
@@ -34,9 +33,7 @@ This work can be broadly organized as three separate but interrelated problems:
 
 [The Mechanical Problem](#mechanical-problem): Using microstructural information to understand mechanical properties of muscle. 
 
-By combining solutions to these problems I hope to create an imaging pipeline that can image a skeletal muscle, estimate its microstructure, and use this microstrucutral information to better inform understanding of the mechancial function of the muscle.   
-
-Much of this work is based on measuring the muscle's microstructure using dMRI. dMRI measures the movement of water molecules, and by measuring how the presence of microstrucutral restrictions affects the movement of these water molecules, we can measure the cumulative effect of the microstructure on the dMRI signal. The following is a brief video explaining how we can measure muscle microstructure using dMRI. 
+By combining solutions to these problems I hope to create an imaging pipeline that can image a skeletal muscle, estimate its microstructure, and use this microstrucutral information to better inform understanding of the mechancial function of the muscle. Much of this work is based on measuring the muscle's microstructure using dMRI. dMRI measures the movement of water molecules, and by measuring how the presence of microstrucutral restrictions affects the movement of these water molecules, we can measure the cumulative effect of the microstructure on the dMRI signal. The following is a brief video explaining how we can measure muscle microstructure using dMRI. 
 
 &nbsp;
 
