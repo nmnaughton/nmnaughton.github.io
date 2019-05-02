@@ -13,7 +13,7 @@ Naughton NM, Plourde BD, Stark JR, Hodis S, Abraham JP. Impacts of waveforms on 
 
 ## Conference Presentations & Posters
 
-# 2019
+### 2019
 
 “Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration” PEARC 2019 (July 2019), Chicago, Illinois (platform presentation)
 
@@ -25,15 +25,15 @@ Naughton NM, Plourde BD, Stark JR, Hodis S, Abraham JP. Impacts of waveforms on 
 
 “Microstructural Parameter Estimation of Skeletal Muscle using Random Forest Model of dMRI” ISMRM Annual Meeting (May 2019), Montreal, Canada (poster)
 
-# 2018
+### 2018
 
 “Estimation of Extracellular Matrix Diffusion Properties in Decellularized Porcine Myocardium from DTI” ISMRM Annual Meeting (June 2018), Paris, France (poster)
 
-# 2017 
+### 2017 
 
 “Effect of Exercise on Myocellular Lipid Content and Diffusion Tensor Imaging Measurements,” Biomedical Engineering Society Annual Meeting (October 2017), Phoenix, Arizona (platform presentation)
 
-# 2016 
+### 2016 
 
 “Effect of Sarcolemma Water Permeability on Muscle DTI Measures Following Exercise,” Biomedical Engineering Society Annual Meeting, (October 2016), Minneapolis, Minnesota (platform presentation)
 
