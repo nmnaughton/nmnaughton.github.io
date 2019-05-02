@@ -14,6 +14,8 @@ Solving the Bloch-Torrey equation for different microstrucutral geoemtries allow
 <br/> <br/>
 $$ S(t) = \int_{V}|\bm{M}(\bm{x},t)|d\bm{x}$$ .
 
-This averaging of the signal smears the signal making it difficult to directly connect the dMRI measurement with the underlying microstructure
+This averaging smears the signal, making it difficult to directly connect the dMRI measurement with the underlying microstructure. However, because of muscle's semi-periodic structure, it is still possible to infer microstrucutral parameters from the dMRI signal. Muscle consists of many long fibers that are tightly bundled together. By assuming that these fibers all have the same cross-sectional shape and are packed together in the same way we can approximate the muscle strucutre using a simplified model that we call a Representative Elementary Volume (REV). This REV model allows us parameterize the model and unerstand how changes in these microstrucutral parameters (for example, the cell diameter) lead to changes in the dMRI signal. 
+
+Solving the Bloch-Torrey equation can be done analytically over simple shapes, however, over more complex domains such as the REV, it is necessary to use numerical methods. We use the lattice Boltzmann method 
 
 
