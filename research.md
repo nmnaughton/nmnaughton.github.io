@@ -69,7 +69,7 @@ How do we go from the dMRI signal to the underlying structure? This includes var
 [learn more](/pages/inverse-problem/)
 
 
-<figure style="float: right; padding-top:150px;  padding-left:20px;">
+<figure style="float: right; padding-top:150px;  padding-left:20px; padding-bottom:50px;">
 <img src="/assets/img/muscle_schematic.png"  width="400">     
 <figcaption>simplified model of muscle</figcaption>
 </figure>
