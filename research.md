@@ -64,10 +64,12 @@ How do changes in skeletal muscle microstructure affect the dMRI signal? In orde
 
 How do we go from the dMRI signal to the underlying structure? This includes various modeling attempts such as response surfaces and machine learning. 
 
+(To answer this we perform numerical simulations of dMRI in skeletal muscle using both realistic and simplified geometric models. These simulations allow us to understand how the dMRI signal will change when there is a change in the underlying microstrucutre. We call this the forward problem becasue it involves solving a problem that mimics what actually happens in a dMRI experiment where the underlying structure effects the measured signal. )
+
 [learn more](/pages/inverse-problem/)
 
 
-<figure style="float: right; padding-top:100px;  padding-left:20px;">
+<figure style="float: right; padding-top:10px;  padding-left:20px;">
 <img src="/assets/img/muscle_schematic.png"  width="400">     
 <figcaption>simplified model of muscle</figcaption>
 </figure>
@@ -75,6 +77,8 @@ How do we go from the dMRI signal to the underlying structure? This includes var
 # Mechanical Problem
 
 If we can predict microstructural information, then how does this help us understand the mechanics of muscle? We use a simple mechancial model to see which parameters most effect muscle properties. We also need to measure properties of the muscle. 
+
+(To answer this we perform numerical simulations of dMRI in skeletal muscle using both realistic and simplified geometric models. These simulations allow us to understand how the dMRI signal will change when there is a change in the underlying microstrucutre. We call this the forward problem becasue it involves solving a problem that mimics what actually happens in a dMRI experiment where the underlying structure effects the measured signal. )
 
 [learn more](/pages/mechanical-problem/)
 
