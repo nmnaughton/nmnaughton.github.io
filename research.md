@@ -25,7 +25,7 @@ I am working on measuring this microstrucutre using diffusion-weighted magnetic 
 
 This work can be broadly organized as three separate but interrelated problems:  
 
-<img src="/assets/img/project_scheme.png" style="float: left;" width="300" style="padding:5px;" >
+<img src="/assets/img/project_scheme.png" style="float: left; padding:5px;" width="300" >
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Forward Problem](#forward-problem): Understanding ow do changes in skeletal muscle microstrucutre affect the dMRI signal.
 
