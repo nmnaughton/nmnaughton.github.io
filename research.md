@@ -62,9 +62,7 @@ How do changes in skeletal muscle microstructure affect the dMRI signal? In orde
 
 # Inverse Problem
 
-How do we go from the dMRI signal to the underlying structure? This includes various modeling attempts such as response surfaces and machine learning. 
-
-(To answer this we perform numerical simulations of dMRI in skeletal muscle using both realistic and simplified geometric models. These simulations allow us to understand how the dMRI signal will change when there is a change in the underlying microstrucutre. We call this the forward problem becasue it involves solving a problem that mimics what actually happens in a dMRI experiment where the underlying structure effects the measured signal. )
+THe inverse problem asks how take the dMRI signal from it determine the microstrucutre of the muscle? We use the insights we gain from solving the forward problem to develop models that allow us to invert the forward problem by taking the measured dMRI signal and going backwards to the orginal microstructure that caused the signal. These models consist of analytical compartment models, numerical inversion methods, meta-models and machine learning techniques to determine what dMRI pulse sequences encode the most information into the signal and how to decode this information to recover the underlying microstructure. 
 
 [learn more](/pages/inverse-problem/)
 
@@ -76,9 +74,7 @@ How do we go from the dMRI signal to the underlying structure? This includes var
 
 # Mechanical Problem
 
-If we can predict microstructural information, then how does this help us understand the mechanics of muscle? We use a simple mechancial model to see which parameters most effect muscle properties. We also need to measure properties of the muscle. 
-
-(To answer this we perform numerical simulations of dMRI in skeletal muscle using both realistic and simplified geometric models. These simulations allow us to understand how the dMRI signal will change when there is a change in the underlying microstrucutre. We call this the forward problem becasue it involves solving a problem that mimics what actually happens in a dMRI experiment where the underlying structure effects the measured signal. )
+The final peice of the puzzle is using the microstructure information from the inverse problem to give new insight into how the muscle is able to function. In particular we look at how changes in muscle microstruture lead to different effective emchancial properties of the muscle. These mechanical properties are integral to force transmission through the muscle. Using micro-mechanical models of the muscle, we connect how changes in the microstructure change these proeprties, which will help us non-invesivly measure muscle health and quality. 
 
 [learn more](/pages/mechanical-problem/)
 
