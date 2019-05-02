@@ -27,6 +27,8 @@ I am working on measuring this microstrucutre using diffusion-weighted magnetic 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Mechanical Problem](#mechanical-problem)
 
+The following is a brief video explaining how we can measure muscle microstrucutre using dMRI signal. 
+
 &nbsp;
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KDJG7JLhH2M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
