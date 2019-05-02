@@ -21,10 +21,12 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
+    orcid:           0000-0002-5553-4718
     #twitter:         jekyllrb
     github:          nmnaughton
     # download:        <url>
     email:           nnaught2@illinois.edu
+    linkedin:        noel-naughton-bb061371
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -53,13 +55,11 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        noel-naughton-bb061371
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    orcid:             0000-0002-5553-4718
 
 
 
