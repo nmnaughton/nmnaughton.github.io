@@ -34,7 +34,7 @@ I am working on measuring this microstrucutre using diffusion-weighted magnetic 
 
 [The Mechanical Problem](#mechanical-problem): Using microstructural information to understand mechanical properties of muscle. 
 
-By combining solutions to these problems I hope to create an imaging pipeline that can image a skeletal muscle, estimate its microstructure, and use this microstrucutral information to better inform understanding of the mechancial function of the muscle. Much of this work is based on measuring the muscle's microstructure using dMRI. dMRI measures the movement of water molecules, and by measuring how the presence of microstrucutral restrictions affects the movement of these water molecules, we can measure the cumulative effect of the microstructure on the dMRI signal. The following is a brief video explaining how we can measure muscle microstructure using dMRI. 
+<br/>By combining solutions to these problems I hope to create an imaging pipeline that can image a skeletal muscle, estimate its microstructure, and use this microstrucutral information to better inform understanding of the mechancial function of the muscle. Much of this work is based on measuring the muscle's microstructure using dMRI. dMRI measures the movement of water molecules, and by measuring how the presence of microstrucutral restrictions affects the movement of these water molecules, we can measure the cumulative effect of the microstructure on the dMRI signal. The following is a brief video explaining how we can measure muscle microstructure using dMRI. 
 
 &nbsp;
 
