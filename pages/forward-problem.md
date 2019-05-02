@@ -38,7 +38,7 @@ Using this LBM model we have an accurate solution of the Bloch-Torrey equation t
 
 ### Sensitivity analysis
 
-Another advantage of having this in silico phantom is being able to easily change the microstrucutral parameters to see how these changes effect the dMRI signal. By doing this in a systematic fashion we can perform a sensitivity analysis to understand how changes in tissue mcirostruture and dMRI pulse parameters lead to changes in the dMRI signal \[3\]. Understanding this sensitivity helps us interpret dMRI measurements and also design pulse sequences that able to efficently encode microstrucutral information 
+Another advantage of having this in silico phantom is being able to easily change the microstrucutral parameters to see how these changes effect the dMRI signal. By doing this in a systematic fashion we can perform a sensitivity analysis to understand how changes in tissue mcirostruture and dMRI pulse parameters lead to changes in the dMRI signal \[3\]. Understanding this sensitivity helps us interpret dMRI measurements and also design pulse sequences that able to efficently encode microstrucutral information. Both of these insights are important in giving us the correct cools to accuratly solve the [inverse problem](/pages/inverse-problem/).
 
 ### References
 \[1\] Naughton NM, Tennyson C, and Georgiadis JG. Lattice Boltzmann method for simulation of diffusion magnetic resonance imaging physics in heterogeneous tissue models. Journal of Computational Physics, (under review).
