@@ -19,7 +19,7 @@ hide_description: true
 <figcaption>skeletal muscle microstructure</figcaption>
 </figure>
 
-My current research focus is on non-invasively measuring the microstructure (or cellular organization) of skeletal muscle. Muscle microstrucutre consists of long fibers that are tightly packed together and surrounded by an extracellular collagen matrix. Changes in this microstructure are related to changes in muscle health, so non-invasive measurement of this microstrucutre should provide new diagnostic tools for assessing muscle health. 
+My current research focus is on non-invasively measuring the microstructure (or cellular organization) of skeletal muscle. Muscle microstrucutre consists of long fibers that are tightly packed together and surrounded by an extracellular collagen matrix. Changes in this microstructure are related to changes in muscle health, so non-invasive measurement of this microstructure should provide new diagnostic tools for assessing muscle health. 
 
 I am working on measuring this microstrucutre using diffusion-weighted magnetic resonance imaging (dMRI) and using these measurments to inform mechancial models of muscle microstructure. These mechanical models show how the muscle’s mechancial properties are affected by changes in the microstructure. 
 
