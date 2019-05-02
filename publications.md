@@ -9,7 +9,7 @@ Naughton, N. , Tennyson C. , and Georgiadis J. , “Comparison of two-compartmen
 
 Naughton, N. and Georgiadis J., “Lattice Boltzmann method for simulation of diffusion magnetic resonance imaging physics in heterogeneous tissue models,” Physics in Medicine and Biology, (In Revision).
 
-Naughton NM, Plourde BD, Stark JR, Hodis S, Abraham JP. Impacts of waveforms on the fluid flow, wall shear stress, and flow distribution in cerebral aneurysms and the development of a universal reduced pressure. Journal of Biomedical Science and Engineering. 2014 Jan 2;7(01):7. doi: [10.4236/jbise.2014.71002](10.4236/jbise.2014.71002).  
+Naughton NM, Plourde BD, Stark JR, Hodis S, Abraham JP. Impacts of waveforms on the fluid flow, wall shear stress, and flow distribution in cerebral aneurysms and the development of a universal reduced pressure. Journal of Biomedical Science and Engineering. 2014 Jan 2;7(01):7. doi: [10.4236/jbise.2014.71002](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=41615).  
 
 ## Conference Presentations & Posters
 
