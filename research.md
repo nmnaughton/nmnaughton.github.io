@@ -46,7 +46,7 @@ The first two problems (forward and inverse Problems) relate to the major challe
 
 # Forward Problem
 
-<figure style="float: right; padding-top:50px;">
+<figure style="float: right; padding-top:50px;  padding-left:20px;">
 <img src="/assets/img/final_frame_hist.png"  width="400">     
 <figcaption>dMRI signal in skeletal muscle</figcaption>
 </figure>
@@ -55,10 +55,14 @@ How do changes in skeletal muscle microstructure affect the dMRI signal? In orde
 
 [learn more](/pages/forward-problem/)
 
+<figure style="float: left; padding-top:50px;  padding-right:20px;">
+<img src="/assets/img/final_frame_hist.png"  width="400">     
+<figcaption>dMRI signal in skeletal muscle</figcaption>
+</figure>
+
 # Inverse Problem
 
 How do we go from the dMRI signal to the underlying structure? This includes various modeling attempts such as response surfaces and machine learning. 
-Image ideas: Difficult to create a graphical representation since this is mostly about predicting a single value, however, the idea of sensitivity to the signal might yield good visualization. 
 
 [learn more](/pages/inverse-problem/)
 
