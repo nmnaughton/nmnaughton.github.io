@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?g2jqx5');
-  src:  url('fonts/icomoon.eot?g2jqx5#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?g2jqx5') format('truetype'),
-    url('fonts/icomoon.woff?g2jqx5') format('woff'),
-    url('fonts/icomoon.svg?g2jqx5#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?15ps5x');
+  src:  url('fonts/icomoon.eot?15ps5x#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?15ps5x') format('truetype'),
+    url('fonts/icomoon.woff?15ps5x') format('woff'),
+    url('fonts/icomoon.svg?15ps5x#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,24 +24,41 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-orcid .path1:before {
-  content: "\e900";
-  color: rgb(0, 0, 0);
+.icon-CV:before {
+  content: "\e90a";
 }
-.icon-orcid .path2:before {
-  content: "\e901";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
+.icon-Springer:before {
+  content: "\e928";
 }
-.icon-orcid .path3:before {
-  content: "\e903";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
+.icon-OpenAccess:before {
+  content: "\e939";
 }
-.icon-orcid .path4:before {
-  content: "\e904";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
+.icon-arXiv:before {
+  content: "\e974";
+}
+.icon-DOI:before {
+  content: "\e97e";
+}
+.icon-DOI1:before {
+  content: "\e98f";
+}
+.icon-Springer1:before {
+  content: "\e99b";
+}
+.icon-orcid:before {
+  content: "\e9d9";
+}
+.icon-Figshare:before {
+  content: "\e9e7";
+}
+.icon-Mendeley:before {
+  content: "\e9f0";
+}
+.icon-Mendeley1:before {
+  content: "\e9f3";
+}
+.icon-GoogleScholar:before {
+  content: "\e9f9";
 }
 .icon-book:before {
   content: "\e91f";
