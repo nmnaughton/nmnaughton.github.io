@@ -58,16 +58,16 @@ menu:
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-legal:
-  - title:             cover photo
-    url:               /research/#forward-problem
+# legal:
+#   - title:             cover photo
+#     url:               /research/#forward-problem
 #   - title:             Cookies Policy
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:            >
     © 2019. Noel Naughton -- All rights reserved. <br/>
-    cover photo: dMRI signal for simplified model of muscle 
+    cover photo: dMRI signal for simplified model of muscle [more info](research/#forward-problem)
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
 
