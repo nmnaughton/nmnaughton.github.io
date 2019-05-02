@@ -21,11 +21,11 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
+    email:           nnaught2@illinois.edu
     orcid:           0000-0002-5553-4718
     #twitter:         jekyllrb
     github:          nmnaughton
     # download:        <url>
-    email:           nnaught2@illinois.edu
     linkedin:        noel-naughton-bb061371
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
