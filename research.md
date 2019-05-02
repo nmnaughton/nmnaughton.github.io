@@ -45,7 +45,7 @@ I am working on measuring this microstrucutre using diffusion-weighted magnetic 
 
 <figure style="float: right; padding-top:150px;  padding-left:20px; padding-bottom:50px;">
 <img src="/assets/img/final_frame_hist.png"  width="400">     
-<figcaption>dMRI signal in skeletal muscle</figcaption>
+<figcaption>dMRI signal in skeletal muscle microstrucutre</figcaption>
 </figure>
 
 # Forward Problem
