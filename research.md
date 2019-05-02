@@ -42,10 +42,7 @@ The first two problems (forward and inverse Problems) relate to the major challe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KDJG7JLhH2M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-&nbsp;
-
-
-<figure style="float: right;">
+<figure style="float: right; padding-right:50px;">
 <img src="/assets/img/final_frame_hist.png"  width="400">     
 <figcaption>dMRI signal in skeletal muscle</figcaption>
 </figure>
