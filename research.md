@@ -16,7 +16,7 @@ hide_description: true
 UNDER CONSTRUCTION1
 
 <figure style="float: right;">
-<img src="/assets/img/muscle_zoom_low_level.png"  width="300" >     
+<img src="/assets/img/microstrucutre_white.png"  width="300" >     
 <figcaption>Example of skeletal muscle microstructure</figcaption>
 </figure>
 
