@@ -27,11 +27,11 @@ This work can be broadly organized as three separate but interrelated problems:
 
 <img src="/assets/img/project_scheme.png" style="float: left; padding:5px;" width="300" >
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Forward Problem](#forward-problem): Understanding ow do changes in skeletal muscle microstrucutre affect the dMRI signal.
+[The Forward Problem](#forward-problem): Understanding how changes in skeletal muscle microstructure affect the dMRI signal.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Inverse Problem](#inverse-problem): Estimating the microstrucutre of skeletal muscle from dMRI measurements.
+[The Inverse Problem](#inverse-problem): Estimating the microstructure of skeletal muscle from dMRI measurements.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Mechanical Problem](#mechanical-problem): Using microstrucutral information to better understand how the mechanical properties of skeletal muscle. 
+[The Mechanical Problem](#mechanical-problem): Using microstructural information to better understand mechanical properties of skeletal muscle. 
 
 By combining solutions to these problems I hope to create an imaging pipeline that can image a skeletal muscle, estimate the microstrucutre of muscle and use this microstrucutral information to inform understanding fo the mechancial function of the muscle.   
 
