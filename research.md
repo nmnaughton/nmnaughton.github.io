@@ -32,7 +32,7 @@ This work can be broadly organized as three separate but interrelated problems:
 
 [The Inverse Problem](#inverse-problem): Estimating the microstructure of skeletal muscle from dMRI measurements.
 
-[The Mechanical Problem](#mechanical-problem): Using microstructural information to better understand mechanical properties of skeletal muscle. 
+[The Mechanical Problem](#mechanical-problem): Use microstructural information to understand mechanical properties of muscle. 
 
 By combining solutions to these problems I hope to create an imaging pipeline that can image a skeletal muscle, estimate the microstrucutre of muscle and use this microstrucutral information to inform understanding fo the mechancial function of the muscle.   
 
