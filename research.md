@@ -42,12 +42,14 @@ The first two problems (forward and inverse Problems) relate to the major challe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KDJG7JLhH2M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+&nbsp;
+
+# Forward Problem
+
 <figure style="float: right; padding-right:50px;">
 <img src="/assets/img/final_frame_hist.png"  width="400">     
 <figcaption>dMRI signal in skeletal muscle</figcaption>
 </figure>
-
-# Forward Problem
 
 How do changes in skeletal muscle microstructure affect the dMRI signal? In order to predict microstructure from dMRI, we first need to answer this question. To answer this we perform numerical simulations of dMRI in skeletal muscle using both realistic and simplified geometric models. These simulations allow us to understand how the dMRI signal will change when there is a change in the underlying microstrucutre. We call this the forward problem becasue it involves solving a problem that mimics what actually happens in a dMRI experiment where the underlying structure effects the measured signal. [learn more](/pages/forward-problem/)
 
