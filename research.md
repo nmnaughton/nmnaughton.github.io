@@ -16,8 +16,8 @@ hide_description: true
 UNDER CONSTRUCTION1
 
 <figure style="float: right;">
-<img src="/assets/img/microstructure_white.PNG"  width="300" >     
-<figcaption>Example of skeletal muscle microstructure</figcaption>
+<img src="/assets/img/microstructure_white.PNG"  height="200" >     
+<figcaption>skeletal muscle microstructure</figcaption>
 </figure>
 
 My current research focus is on non-invasively measuring the microstructure of skeletal muscle. Muscle microstructure is a description of how muscle cells are organized. Muscle consists of long fibers that are tightly packed together and surrounded by an extracellular collagen matrix. Changes in this microstructure have been related to changes in muscle health so non-invasive measurement of this microstrucutre should provide new diagnostic tools for assessing muscle health. 
