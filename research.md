@@ -55,9 +55,9 @@ How do changes in skeletal muscle microstructure affect the dMRI signal? In orde
 
 [learn more](/pages/forward-problem/)
 
-<figure style="float: left; padding-top:50px;  padding-right:20px;">
-<img src="/assets/img/final_frame_hist.png"  width="400">     
-<figcaption>dMRI signal in skeletal muscle</figcaption>
+<figure style="float: left; padding-top:100px;  padding-right:20px;">
+<img src="/assets/img/final_parameter_selection.PNG"  width="400">     
+<figcaption>dMRI pulse optimization for microstructure encoding</figcaption>
 </figure>
 
 # Inverse Problem
@@ -65,6 +65,12 @@ How do changes in skeletal muscle microstructure affect the dMRI signal? In orde
 How do we go from the dMRI signal to the underlying structure? This includes various modeling attempts such as response surfaces and machine learning. 
 
 [learn more](/pages/inverse-problem/)
+
+
+<figure style="float: right; padding-top:100px;  padding-left:20px;">
+<img src="/assets/img/muscle_schematic.png"  width="400">     
+<figcaption>simplified model of muscle</figcaption>
+</figure>
 
 # Mechanical Problem
 
