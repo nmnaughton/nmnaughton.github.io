@@ -7,5 +7,5 @@ title: C.V.
 
 &nbsp;
 
- <embed src="/assets/Noel.Naughton.CV.pdf" width = 1000 height = 1000  />
+ <embed src="/assets/Noel.Naughton.CV.pdf" class = "full-width" height = "1000"  />
 
