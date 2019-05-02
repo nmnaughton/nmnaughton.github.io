@@ -22,7 +22,9 @@ UNDER CONSTRUCTION1
 
 My current research focus is on non-invasively measuring the microstructure of skeletal muscle. Muscle microstructure is a description of how muscle cells are organized. Muscle consists of long fibers that are tightly packed together and surrounded by an extracellular collagen matrix. Changes in this microstructure have been related to changes in muscle health so non-invasive measurement of this microstrucutre should provide new diagnostic tools for assessing muscle health. 
 
-I am working on measuring this microstrucutre using diffusion-weighted magnetic resonance imaging (dMRI). Then, using these estimations of microstructure from the dMRI, I am working to develop mechancial models of muscle microstructure to the muscle’s mechancial properties are affected by changes in the microstructure. This work can be broadly organized as three separate but interrelated problems:  
+I am working on measuring this microstrucutre using diffusion-weighted magnetic resonance imaging (dMRI). Then, using these estimations of microstructure from the dMRI, I am working to develop mechancial models of muscle microstructure to the muscle’s mechancial properties are affected by changes in the microstructure. 
+
+This work can be broadly organized as three separate but interrelated problems:  
 
 <img src="/assets/img/project_scheme.png" style="float: right;" width="300">
 
@@ -32,7 +34,9 @@ I am working on measuring this microstrucutre using diffusion-weighted magnetic 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Mechanical Problem](#mechanical-problem)
 
-The following is a brief video explaining how we can measure muscle microstrucutre using dMRI signal. 
+By combining solutions to these problems I hope to create an imaging pipeline that can image a skeletal muscle, estimate the microstrucutre of muscle and use this microstrucutral information to inform understanding fo the mechancial function of the muscle.   
+
+The first two problems (Forward and Inverse Probelms) relate to the major challenge of measuring the muscle's microstrucutre. The following is a brief video explaining how we can measure muscle microstrucutre using dMRI signal. 
 
 &nbsp;
 
