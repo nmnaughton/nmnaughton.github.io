@@ -30,9 +30,19 @@ This averaging smears the signal, making it difficult to directly connect the dM
 
 ### Solving the Bloch-Torrey equation
 
-Solving the Bloch-Torrey equation can be done analytically over simple shapes, however, over more complex domains such as the REV, it is necessary to use numerical methods. We use the lattice Boltzmann method which is an efficient solution technique that can be easily parallelized to take advantage of high performance computing (HPC) resources. Thanks to a startup allocation by XSEDE, we have shown that the model can efficiently scale to over 160 cores on SDSU's Comet cluster. 
+Solving the Bloch-Torrey equation can be done analytically over simple shapes, however, over more complex domains such as the REV, it is necessary to use numerical methods. We use the lattice Boltzmann method which is an efficient solution technique that can be easily parallelized to take advantage of high performance computing (HPC) resources \[1\]. Thanks to a startup allocation from [XSEDE](https://xsede.org/), we have shown that the model can efficiently scale to over 160 cores on [SDSU's](https://www.sdsc.edu/) Comet cluster. 
 
-Using this LBM model we have an accurate solution of the Bloch-Torrey equation that make few assumtions about the dMRI physics. This allows us to treat is as an in silico phantom that can be used to validate new and existing models of dMRI. The advantage of using an in silico phantom is exact knowledge of the underlying microstrucutre, something that is very difficult to measure in real biological tissue. This allows rigours validation that model are able to capture the underlying strucutral behaviro and physcis of dMRI before applying them to the more complex case of real biological tissue where noise and difficulty in verifying the underlying tissue complicate the validation process. 
+### Validating existing models
 
-Another advantage of having this in silico phantom is being able to easily change 
+Using this LBM model we have an accurate solution of the Bloch-Torrey equation that make few assumtions about the dMRI physics. This allows us to treat is as an in silico phantom that can be used to validate new and existing models of dMRI \[2\]. The advantage of using an in silico phantom is exact knowledge of the underlying microstrucutre, something that is very difficult to measure in real biological tissue. This allows rigours validation that model are able to capture the underlying strucutral behaviro and physcis of dMRI before applying them to the more complex case of real biological tissue where noise and difficulty in verifying the underlying tissue complicate the validation process. 
 
+### Sensitivity analysis
+
+Another advantage of having this in silico phantom is being able to easily change the microstrucutral parameters to see how these changes effect the dMRI signal. By doing this in a systematic fashion we can perform a sensitivity analysis to understand how changes in tissue mcirostruture and dMRI pulse parameters lead to changes in the dMRI signal \[3\]. Understanding this sensitivity helps us interpret dMRI measurements and also design pulse sequences that able to efficently encode microstrucutral information 
+
+### References
+\[1\] Naughton NM, Tennyson C, and Georgiadis JG. Lattice Boltzmann method for simulation of diffusion magnetic resonance imaging physics in heterogeneous tissue models. Journal of Computational Physics, (under review).
+
+\[2\] Naughton NM and Georgiadis JG. Comparison of two-compartment exchange and continuum models of dMRI in skeletal muscle. Physics in Medicine and Biology, (in revision).
+
+\[3\] Naughton, N. and Georgiadis J., “Global Sensitivity Analysis of Skeletal Muscle dMRI: Effects of Microstructural and PGSE Pulse Parameters,” Magnetic Resonance in Medicine, (in preparation).
