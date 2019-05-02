@@ -2,7 +2,7 @@
 layout: page
 
 # The title of the page.
-title: My Research
+title: My Research -- under construction
 
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
@@ -13,7 +13,6 @@ description: >
 hide_description: true
 
 ---
-UNDER CONSTRUCTION1
 
 <figure style="float: right;">
 <img src="/assets/img/microstructure_white.PNG"  width="400">     
@@ -26,7 +25,7 @@ I am working on measuring this microstrucutre using diffusion-weighted magnetic 
 
 This work can be broadly organized as three separate but interrelated problems:  
 
-<img src="/assets/img/project_scheme.png" style="float: left;" width="300">
+<img src="/assets/img/project_scheme.png" style="float: left;" width="300" style="padding:5px;" >
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Forward Problem](#forward-problem): Understanding ow do changes in skeletal muscle microstrucutre affect the dMRI signal.
 
