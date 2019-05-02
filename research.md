@@ -35,7 +35,7 @@ This work can be broadly organized as three separate but interrelated problems:
 
 By combining solutions to these problems I hope to create an imaging pipeline that can image a skeletal muscle, estimate the microstrucutre of muscle and use this microstrucutral information to inform understanding fo the mechancial function of the muscle.   
 
-The first two problems (Forward and Inverse Probelms) relate to the major challenge of measuring the muscle's microstrucutre. The following is a brief video explaining how we can measure muscle microstrucutre using dMRI signal. 
+The first two problems (forward and inverse Problems) relate to the major challenge of measuring the muscle's microstructure. dMRI measures the movement of water molecules. By measuring how the presence of microstrucutral restrictions affects the movement of these water molecules, we can measure the cumulative effect of the microstructure on the dMRI signal. The following is a brief video explaining how exactly we can measure muscle microstructure using dMRI signal. 
 
 &nbsp;
 
