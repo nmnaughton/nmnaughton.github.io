@@ -4,9 +4,8 @@ title: C.V.
 ---
 [download C.V.](/assets/Noel.Naughton.CV.pdf)
 
-test
 
 &nbsp;
 
- <embed src="/assets/Noel.Naughton.CV.pdf" class="full-width"  />
+ <embed src="/assets/Noel.Naughton.CV.pdf" width = 1000 height = 1000  />
 
