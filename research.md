@@ -24,7 +24,7 @@ My current research focus is on non-invasively measuring the microstructure (or 
 I am working on measuring this microstrucutre using diffusion-weighted magnetic resonance imaging (dMRI) and using these measurments to inform mechancial models of muscle microstructure. These mechanical models show how the muscle’s mechancial properties are affected by changes in the microstructure. This work can be broadly organized as three separate but interrelated problems:  
 
 <figure style="float: left; padding-right:20px; padding-top:20px;">
-<img src="/assets/img/project_scheme.png"  width="300" vspace>
+<img src="/assets/img/dMRI.png"  width="300">
 </figure>
 
 [The Forward Problem](#forward-problem): Understanding how changes in skeletal muscle microstructure affect the dMRI signal.
