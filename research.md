@@ -34,7 +34,7 @@ This work can be broadly organized as three separate but interrelated problems:
 
 [The Mechanical Problem](#mechanical-problem): Using microstructural information to understand mechanical properties of muscle. 
 
-By combining solutions to these problems I hope to create an imaging pipeline that can image a skeletal muscle, estimate the microstrucutre of muscle and use this microstrucutral information to inform understanding fo the mechancial function of the muscle.   
+By combining solutions to these problems I hope to create an imaging pipeline that can image a skeletal muscle, estimate its microstructure, and use this microstrucutral information to better inform understanding of the mechancial function of the muscle.   
 
 The first two problems (forward and inverse Problems) relate to the major challenge of measuring the muscle's microstructure. dMRI measures the movement of water molecules. By measuring how the presence of microstrucutral restrictions affects the movement of these water molecules, we can measure the cumulative effect of the microstructure on the dMRI signal. The following is a brief video explaining how exactly we can measure muscle microstructure using dMRI signal. 
 
@@ -44,11 +44,12 @@ The first two problems (forward and inverse Problems) relate to the major challe
 
 # Forward Problem
 
-![Full-width image](assets/img/final_frame_hist.png){:.lead data-width="800" data-height="100"}
-A caption for an image.
-{:.figure}
+<figure style="float: right;">
+<img src="/assets/img/final_frame_hist.pngG"  width="400">     
+<figcaption>dMRI signal in skeletal muscle</figcaption>
+</figure>
 
-This is the numerical solution of the Bloch-Torrey equation.  We can look at how different structures lead to different dMRI measurments, both with histology and simplified muscle models. We use the lattice Boltzmann method to solve the BT equation. 
+The forward problem is concerned with understanding how changes in skeletal muscle microstructure affects the dMRI signal. dMRI is governed by the Bloch-Torrey equation. 
 
 # Inverse Problem
 
