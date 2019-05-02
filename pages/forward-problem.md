@@ -15,7 +15,7 @@ Solving the Bloch-Torrey equation for different microstrucutral geoemtries allow
 $$ S(t) = \int_{V}|\bm{M}(\bm{x},t)|d\bm{x}$$ .
 
 <figure style="float: right; padding-top:20px;">
-<img src="/assets/ing/REV.png"  width="300">     
+<img src="/assets/img/REV.png"  width="300">     
 <figcaption>Chicken skeletal muscle and simplified REV model</figcaption>
 </figure>
 
