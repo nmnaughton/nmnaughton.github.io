@@ -12,11 +12,5 @@ Please look around and don't hesitate to contact me if you find anything interes
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 <sub> cover photo: dMRI signal from LBM simulation of Bloch-Torrey equation over simplified model of skeletal muscle. </sub>
 
