@@ -15,7 +15,7 @@ hide_description: true
 ---
 # My Research
 
-My current research focuses on measuring the microstrucutre of skeletal muscle. 
+My current research focuses on measuring the microstrucutre of skeletal muscle. This will allow
 
 This work can be broadly organized as three seperate but interrelated problems: 
 
