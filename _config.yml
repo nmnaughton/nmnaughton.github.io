@@ -65,8 +65,9 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2019. Noel Naughton -- All rights reserved. \
-cover photo: dMRI signal from LBM simulation of Bloch-Torrey equation over simplified model of skeletal muscle.
+copyright:            >
+    © 2019. Noel Naughton -- All rights reserved. \
+    cover photo: dMRI signal from LBM simulation of Bloch-Torrey equation over simplified model of skeletal muscle.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
