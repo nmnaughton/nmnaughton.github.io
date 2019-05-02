@@ -67,7 +67,7 @@ menu:
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:            >
     © 2019. Noel Naughton -- All rights reserved. <br/>
-    Cover Photo: dMRI signal for simplified model of muscle ([more info](research/#forward-problem))
+    Cover Photo: dMRI signal for simplified model of muscle ([more info](https://noelmnaughton.com/research/#forward-problem))
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
 
