@@ -1,8 +1,8 @@
 ---
 layout: page
-title: C.V.
+title: Curriculum Vitae
 ---
-[download C.V.](/assets/Noel.Naughton.CV.pdf)
+[Download C.V.](/assets/Noel.Naughton.CV.pdf)
 
 
 &nbsp;
