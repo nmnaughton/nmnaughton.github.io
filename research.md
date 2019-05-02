@@ -49,21 +49,19 @@ The first two problems (forward and inverse Problems) relate to the major challe
 
 # Forward Problem
 
-The forward problem is concerned with understanding how changes in skeletal muscle microstructure affects the dMRI signal. dMRI is governed by the Bloch-Torrey equation. 
-
-[more info](/pages/forward-problem/)
+How do changes in skeletal muscle microstructure affect the dMRI signal? In order to predict microstructure from dMRI, we first need to answer this question. To answer this we perform numerical simulations of dMRI in skeletal muscle using both realistic and simplified geometric models. These simulations allow us to understand how the dMRI signal will change when there is a change in the underlying microstrucutre. We call this the forward problem becasue it involves solving a problem that mimics what actually happens in a dMRI experiment where the underlying structure effects the measured signal. [learn more](/pages/forward-problem/)
 
 # Inverse Problem
 
 How do we go from the dMRI signal to the underlying structure? This includes various modeling attempts such as response surfaces and machine learning. 
 Image ideas: Difficult to create a graphical representation since this is mostly about predicting a single value, however, the idea of sensitivity to the signal might yield good visualization. 
 
-[more info](/pages/inverse-problem/)
+[learn more](/pages/inverse-problem/)
 
 # Mechanical Problem
 
 If we can predict microstructural information, then how does this help us understand the mechanics of muscle? We use a simple mechancial model to see which parameters most effect muscle properties. We also need to measure properties of the muscle. 
 
-[more info](/pages/mechanical-problem/)
+[learn more](/pages/mechanical-problem/)
 
 
