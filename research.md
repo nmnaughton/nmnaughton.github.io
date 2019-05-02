@@ -2,7 +2,7 @@
 layout: page
 
 # The title of the page.
-title: Research
+title: My Research
 
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
@@ -13,9 +13,9 @@ description: >
 hide_description: true
 
 ---
-# My Research
+UNDER CONSTRUCTION
 
-My current research focuses on measuring the microstrucutre of skeletal muscle. This will allow
+My current research focuses on measuring the microstructure of skeletal muscle. This will allow
 
 This work can be broadly organized as three seperate but interrelated problems: 
 
