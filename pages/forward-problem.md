@@ -6,6 +6,8 @@ title: Forward Problem
 
 ---
 
+Lorem ipsum $$ f(x) = x^2 $$.
+
 Diffusion-weighted MRI (dMRI) is goverend by the Bloch-Torrey equation whcih is a 2nd order, parabolic PDE: 
 
 $$
