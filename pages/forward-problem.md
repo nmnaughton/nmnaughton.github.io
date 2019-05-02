@@ -14,8 +14,6 @@ Solving the Bloch-Torrey equation for different microstrucutral geoemtries allow
 <br/> <br/>
 $$ S(t) = \int_{V}|\bm{M}(\bm{x},t)|d\bm{x}$$ .
 
-<iframe src="https://giphy.com/embed/ygAENPoJmG3KtqNjd9" width="480" height="296" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ygAENPoJmG3KtqNjd9">via GIPHY</a></p>
-
 <figure style="float: right; padding-top:20px;">
 <img src="/assets/video/REV-animation.gif"  width="400">     
 <figcaption>evolution of dMRI signal in REV model</figcaption>
