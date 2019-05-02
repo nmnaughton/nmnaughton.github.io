@@ -15,9 +15,9 @@ hide_description: true
 ---
 UNDER CONSTRUCTION
 
-My current research focuses on measuring the microstructure of skeletal muscle. This will allow
+My current research focus is on non-invasively measuring the microstructure of skeletal muscle. Muscle microstructure is a description of how muscle cells are organized. Muscle consists of long fibers that are tightly packed together and surrounded by an extracellular collagen matrix. Changes in this microstructure have been related to changes in muscle health so non-invasive measurement of this microstrucutre should provide new diagnostic tools for assessing muscle health. 
 
-This work can be broadly organized as three seperate but interrelated problems: 
+I am working on measuring this microstrucutre using diffusion-weighted magnetic resonance imaging (dMRI). Then, using these estimations of microstructure from the dMRI, I am working to develop mechancial models of muscle microstructure to the muscle’s mechancial properties are affected by changes in the microstructure. This work can be broadly organized as three separate but interrelated problems:  
 
 <img src="/assets/img/project_scheme.png" style="float: right;" width="400">
 
@@ -31,7 +31,7 @@ This work can be broadly organized as three seperate but interrelated problems:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KDJG7JLhH2M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Forward Problem 
+# Forward Problem
 
 ![Full-width image](assets/img/final_frame_hist.png){:.lead data-width="800" data-height="100"}
 A caption for an image.
@@ -44,7 +44,7 @@ This is the numerical solution of the Bloch-Torrey equation.  We can look at how
 How do we go from the dMRI signal to the underlying structure? This includes various modeling attempts such as response surfaces and machine learning. 
 Image ideas: Difficult to create a graphical representation since this is mostly about predicting a single value, however, the idea of sensitivity to the signal might yield good visualization. 
 
-# Mechanical Problem 
+# Mechanical Problem
 
 If we can predict microstructural information, then how does this help us understand the mechanics of muscle? We use a simple mechancial model to see which parameters most effect muscle properties. We also need to measure properties of the muscle. 
 
