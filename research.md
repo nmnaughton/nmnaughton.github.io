@@ -2,7 +2,7 @@
 layout: page
 
 # The title of the page.
-title: My Research -- under construction
+title: My Research
 
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
@@ -23,7 +23,7 @@ My current research focus is on non-invasively measuring the microstructure (or 
 
 I am working on measuring this microstrucutre using diffusion-weighted magnetic resonance imaging (dMRI) and using these measurments to inform mechancial models of muscle microstructure. These mechanical models show how the muscle’s mechancial properties are affected by changes in the microstructure. This work can be broadly organized as three separate but interrelated problems:  
 
-<figure style="float: left; padding-right:20px; padding-bottom:20px;">
+<figure style="float: left; padding-right:20px; padding-top:20px;">
 <img src="/assets/img/project_scheme.png"  width="300" vspace>
 </figure>
 
@@ -41,12 +41,13 @@ By combining solutions to these problems I hope to create an imaging pipeline th
 
 &nbsp;
 
-# Forward Problem
 
-<figure style="float: right; padding-top:50px;  padding-left:20px;">
+<figure style="float: right; padding-top:150px;  padding-left:20px; padding-bottom:50px;">
 <img src="/assets/img/final_frame_hist.png"  width="400">     
 <figcaption>dMRI signal in skeletal muscle</figcaption>
 </figure>
+
+# Forward Problem
 
 How do changes in skeletal muscle microstructure affect the dMRI signal? In order to predict microstructure from dMRI, we first need to answer this question. To answer this we perform numerical simulations of dMRI in skeletal muscle using both realistic and simplified geometric models. These simulations allow us to understand how the dMRI signal will change when there is a change in the underlying microstrucutre. We call this the forward problem becasue it involves solving a problem that mimics what actually happens in a dMRI experiment where the underlying structure effects the measured signal. 
 
@@ -71,7 +72,7 @@ THe inverse problem asks how take the dMRI signal from it determine the microstr
 
 # Mechanical Problem
 
-The final peice of the puzzle is using the microstructure information from the inverse problem to give new insight into how the muscle is able to function. In particular we look at how changes in muscle microstruture lead to different effective emchancial properties of the muscle. These mechanical properties are integral to force transmission through the muscle. Using micro-mechanical models of the muscle, we connect how changes in the microstructure change these proeprties, which will help us non-invesivly measure muscle health and quality. 
+The final piece of the puzzle is using the microstructural information from the inverse problem to gain new insight into how the muscle is able to function. In particular, we look at how changes in muscle microstructure lead to different effective mechanical properties of the muscle. These mechanical properties are integral to force transmission through the muscle. Using micro-mechanical models of the muscle, we connect how changes in the microstructure change these proeprties, which will help us non-invesivly measure muscle health and quality. 
 
 [learn more](/pages/mechanical-problem/)
 
