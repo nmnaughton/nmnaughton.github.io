@@ -202,7 +202,7 @@ paypal:
 download:
   name: Download
   icon: icon-box-add
-# orcid:
-#   name: ORCID
-#   icon: icon-orcid
-#   prepend: "https://orcid.org/"
+orcid:
+  name: ORCID
+  icon: icon-orcid
+  prepend: "https://orcid.org/"
