@@ -5,6 +5,10 @@ layout: page
 title: Forward Problem
 
 ---
+<figure style="float: right; padding-top:20px;">
+<img src="/assets/ing/REV.png"  width="300">     
+<figcaption>Chicken skeletal muscle and simplified REV model</figcaption>
+</figure>
 
 Diffusion-weighted MRI (dMRI) is goverend by the Bloch-Torrey equation which is a 2nd order, parabolic PDE: 
 
