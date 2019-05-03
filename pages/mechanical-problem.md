@@ -16,6 +16,6 @@ Using the estimates of the skeletal muscle's microstruture from the solution of 
 
 This is an area of my reserach that I am just starting so I do not yet have much to report, but I should have results soon!
 
-### References
+### Related Publications
 
 Coming Soon!
