@@ -14,6 +14,8 @@ title: Inverse Problem
 <figcaption>example pulse fingerprint for radial diffusivity</figcaption>
 </figure>
 
+Meta Models
+
 ### PGSE pulse optimization for microstruture encoding
 
 <figure style="float: left; padding-top:20px;  padding-right:20px; ">
