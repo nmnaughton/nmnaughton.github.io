@@ -55,7 +55,7 @@ How do changes in skeletal muscle microstructure affect the dMRI signal? In orde
 
 [learn more](/pages/forward-problem/)
 
-<figure style="float: left; padding-top:150px;  padding-right:20px; padding-bottom:50px;">
+<figure style="float: left; padding-top:150px;  padding-right:20px; padding-bottom:60px;">
 <img src="/assets/img/final_parameter_selection.PNG"  width="400">     
 <figcaption>dMRI pulse optimization for microstructure encoding</figcaption>
 </figure>
