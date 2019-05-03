@@ -7,7 +7,7 @@ title: Inverse Problem
 ---
 ### Estimating muscle microstructure from dMRI measurements
 
-The inverse problem, as its name implies, is ultimately about working in the inverse direction as the [forward problem](/pages/forward-problem/). We use the dMRI signal that is measured when you get an MRI and from it infer the microstructural properties of your muscle. Going from the dMRI signal to the underlying microstructure is not straight forward. Often, models of the forward problem are used and the possible microstructural parameters are varied until the predicted dMRI signal matches the measured dMRI signal. These microstructure predictions can then be compared with the numerical LBM model to determine if they accuratly capture changes in microstructure [[2,](#ref2) [5\]](#ref5). This often requires many model evaluations so having a computationally efficient model is important. 
+The inverse problem, as its name implies, is ultimately about working in the inverse direction as the [forward problem](/pages/forward-problem/). We use the dMRI signal that is measured when you get an MRI and from it infer the microstructural properties of your muscle. Going from the dMRI signal to the underlying microstructure is not straight forward. Often, models of the forward problem are used and the possible microstructural parameters are varied until the predicted dMRI signal matches the measured dMRI signal. These microstructure predictions can then be compared with the numerical LBM model to determine if they accuratly capture changes in microstructure [\[2,](#ref2) [5\]](#ref5). This often requires many model evaluations so having a computationally efficient model is important. 
 
 ### Meta-model of Bloch-Torrey equation
 
@@ -25,7 +25,7 @@ The numerical LBM model of dMRI is computationally expensive. To allow for faste
 <figcaption>dMRI pulse optimization for microstructure encoding</figcaption>
 </figure>
 
-Identifying these fingerprints for different combinations of microstructural parameters helps us estimate microstructure from the dMRI signal, but we also want to know what types of dMRI pulses will best allow us to do this. Being able to acquire the same microstructural information using fewer pulse sequences leads to shorter acquisition times, something anyone who has ever had an MRI can appreciate. Using the meta-model we look at which pulse profiles give the largest range for dMRI measurements, and in particular, what combinations of pulse profiles allows us to encode the most possible information about the microstructure into the dMRI signals [[1]](#ref1). 
+Identifying these fingerprints for different combinations of microstructural parameters helps us estimate microstructure from the dMRI signal, but we also want to know what types of dMRI pulses will best allow us to do this. Being able to acquire the same microstructural information using fewer pulse sequences leads to shorter acquisition times, something anyone who has ever had an MRI can appreciate. Using the meta-model we look at which pulse profiles give the largest range for dMRI measurements, and in particular, what combinations of pulse profiles allows us to encode the most possible information about the microstructure into the dMRI signals [\[1\]](#ref1). 
 
 ### Inverting the numerical LBM model
 
