@@ -7,7 +7,7 @@ title: Inverse Problem
 ---
 ### Estimating muscle microstructure from dMRI measurements
 
-The inverse problem, as its name implies, is ultimately about working in the inverse direction as the forward problem. We are trying to use the dMRI signal that is measured when you get an MRI and from it infer the microstructural properties of your muscle. Going from the dMRI signal to the underlying microstrucutre is not straight forward. Often, models of the forward problem are used the possible microstrucutral parameters are varied untill the predicted dMRI signal matches the measured dMRI signal. These microstrucutre predictions can then be compared with the numerical LBM model to determine if they accurate capture changes in microstruture \[2, 5\]. This often requires many model evaluations so having a computational efficient model is important. 
+The inverse problem, as its name implies, is ultimately about working in the inverse direction as the [forward problem](/pages/forward-problem/). We are trying to use the dMRI signal that is measured when you get an MRI and from it infer the microstructural properties of your muscle. Going from the dMRI signal to the underlying microstrucutre is not straight forward. Often, models of the forward problem are used the possible microstrucutral parameters are varied untill the predicted dMRI signal matches the measured dMRI signal. These microstrucutre predictions can then be compared with the numerical LBM model to determine if they accurate capture changes in microstruture \[2, 5\]. This often requires many model evaluations so having a computational efficient model is important. 
 
 ### Meta-model of Bloch-Torrey equation
 
@@ -34,6 +34,8 @@ While the numerical LBM model is slow, it is still the most accurate model avail
 ### Machine Learning Models
 
 Does the problem even exist if you don't use machine learning to try and solve it? Machine learning techniques have shown great promise in being able to solve inverse problems, and this inverse problem is no exception. By generating large training datasets using the numerical model, it is possible to train models to predict the microstruture from the dMRI signal \[4\]. The disadvantage of these models is they are often not based on the underlying physcis of the problem so the can not give insight into what is going on. Because of this, it is important to first understand the relatinoship between microstruture and dMRI. By first understanding this relationhsip, we can know the limits and caveats of the predictions of the machine learning models. 
+
+Solving the inverse problem and being able to predict the microstruture of skeletal muscle from dMRI signal will likely require a combination of different models, each with its own strengths and weakness. By combining these models we will be able to take a dMRI measurement and estimate what the underlying tissue microstruture is. These microstrutural estiamtes will then be used in micro-mechancial models of muscle to solve the [mechanical problem](/pages/mechanical-problem) of understanding how microstrutural variations affect the effective mechacnial properties of msucle, and by extension, the ability of the muscle to transmit force and function. 
 
 ### References
 
