@@ -20,7 +20,7 @@ The numerical LBM model of dMRI is computationally expensive. To allow for faste
 
 ### PGSE pulse optimization for microstructure encoding
 
-<figure style="float: left; padding-top:20px;  padding-right:20px; ">
+<figure style="float: left; padding-top:20px;  padding-right:20px; padding-bottom:10px; ">
 <img src="/assets/img/final_parameter_selection.PNG"  width="400">     
 <figcaption>dMRI pulse optimization for microstructure encoding</figcaption>
 </figure>
