@@ -7,7 +7,7 @@ title: Inverse Problem
 ---
 ### Estimating muscle microstructure from dMRI measurements
 
-The inverse problem, as its name implies, is ultimately about working in the inverse direction as the [forward problem](/pages/forward-problem/). We use the dMRI signal that is measured when you get an MRI and from it infer the microstructural properties of your muscle. Going from the dMRI signal to the underlying microstructure is not straight forward. Often, models of the forward problem are used and the possible microstructural parameters are varied until the predicted dMRI signal matches the measured dMRI signal. These microstructure predictions can then be compared with the numerical LBM model to determine if they accuratly capture changes in microstructure \[2, 5\]. This often requires many model evaluations so having a computationally efficient model is important. 
+The inverse problem, as its name implies, is ultimately about working in the inverse direction as the [forward problem](/pages/forward-problem/). We use the dMRI signal that is measured when you get an MRI and from it infer the microstructural properties of your muscle. Going from the dMRI signal to the underlying microstructure is not straight forward. Often, models of the forward problem are used and the possible microstructural parameters are varied until the predicted dMRI signal matches the measured dMRI signal. These microstructure predictions can then be compared with the numerical LBM model to determine if they accuratly capture changes in microstructure [[2,](#ref2) [5\]](#ref5). This often requires many model evaluations so having a computationally efficient model is important. 
 
 ### Meta-model of Bloch-Torrey equation
 
@@ -25,7 +25,7 @@ The numerical LBM model of dMRI is computationally expensive. To allow for faste
 <figcaption>dMRI pulse optimization for microstructure encoding</figcaption>
 </figure>
 
-Identifying these fingerprints for different combinations of microstructural parameters helps us estimate microstructure from the dMRI signal, but we also want to know what types of dMRI pulses will best allow us to do this. Being able to acquire the same microstructural information using fewer pulse sequences leads to shorter acquisition times, something anyone who has ever had an MRI can appreciate. Using the meta-model we look at which pulse profiles give the largest range for dMRI measurements, and in particular, what combinations of pulse profiles allows us to encode the most possible information about the microstructure into the dMRI signals [[1]](#1). 
+Identifying these fingerprints for different combinations of microstructural parameters helps us estimate microstructure from the dMRI signal, but we also want to know what types of dMRI pulses will best allow us to do this. Being able to acquire the same microstructural information using fewer pulse sequences leads to shorter acquisition times, something anyone who has ever had an MRI can appreciate. Using the meta-model we look at which pulse profiles give the largest range for dMRI measurements, and in particular, what combinations of pulse profiles allows us to encode the most possible information about the microstructure into the dMRI signals [[1]](#ref1). 
 
 ### Inverting the numerical LBM model
 
@@ -39,12 +39,12 @@ Solving the inverse problem and being able to predict the microstructure of skel
 
 ### Related Publications
 
-\[1\]<a name="1"></a> Naughton NM and Georgiadis JG. Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration. PEARC 2019 (July 2019), Chicago, Illinois (platform presentation)
+\[1\]<a name="ref1"></a> Naughton NM and Georgiadis JG. Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration. PEARC 2019 (July 2019), Chicago, Illinois (platform presentation)
 
-\[2\] Naughton NM, Gallo NR, Anderson AT, and Georgiadis JG. Comparison of dMRI Models for Skeletal Muscle Microstructure Estimations with Numerical Simulations and Myocardial Porcine Phantom. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster)
+\[2\]<a name="ref2"></a> Naughton NM, Gallo NR, Anderson AT, and Georgiadis JG. Comparison of dMRI Models for Skeletal Muscle Microstructure Estimations with Numerical Simulations and Myocardial Porcine Phantom. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster)
 
-\[3\] Naughton NM, Jain A, and Georgiadis JG. Polynomial Meta-Model of Bloch-Torrey Equation for Track-based Regularization of Microstructural Inversion. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster)
+\[3\]<a name="ref3"></a> Naughton NM, Jain A, and Georgiadis JG. Polynomial Meta-Model of Bloch-Torrey Equation for Track-based Regularization of Microstructural Inversion. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster)
 
-\[4\] Naughton NM, Gallo NR, Anderson AT, and Georgiadis JG. Microstructural Parameter Estimation of Skeletal Muscle using Random Forest Model of dMRI. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster)
+\[4\]<a name="ref4"></a> Naughton NM, Gallo NR, Anderson AT, and Georgiadis JG. Microstructural Parameter Estimation of Skeletal Muscle using Random Forest Model of dMRI. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster)
 
-\[5\] Naughton NM, Gallo NR, Vaicik M, Anderson AT, Sutton BP, and Georgiadis JG. “Estimation of Extracellular Matrix Diffusion Properties in Decellularized Porcine Myocardium from DTI” ISMRM Annual Meeting (June 2018), Paris, France (poster)
+\[5\]<a name="ref5"></a> Naughton NM, Gallo NR, Vaicik M, Anderson AT, Sutton BP, and Georgiadis JG. “Estimation of Extracellular Matrix Diffusion Properties in Decellularized Porcine Myocardium from DTI” ISMRM Annual Meeting (June 2018), Paris, France (poster)
