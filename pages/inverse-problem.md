@@ -7,16 +7,16 @@ title: Inverse Problem
 ---
 ### Estimating muscle microstructure from dMRI measurements
 
-The inverse problem, as its name implies, is ultimately about working in the inverse direction as the forward problem. We are trying to use the dMRI signal that is measured when you get an MRI and from it infer the microstructural properties of your muscle. Going from the dMRI signal to the underlying microstrucutre is not straight forward. Often, models of the forward problem are used the possible microstrucutral parameters are varied untill the predicted dMRI signal matches the measured dMRI signal. These microstrucutre predictions can then be compared with the numerical LBM model to determine if they accurate capture changes in microstruture /[1/]. This often requires many model evaluations so having a computational efficient model is important. 
+The inverse problem, as its name implies, is ultimately about working in the inverse direction as the forward problem. We are trying to use the dMRI signal that is measured when you get an MRI and from it infer the microstructural properties of your muscle. Going from the dMRI signal to the underlying microstrucutre is not straight forward. Often, models of the forward problem are used the possible microstrucutral parameters are varied untill the predicted dMRI signal matches the measured dMRI signal. These microstrucutre predictions can then be compared with the numerical LBM model to determine if they accurate capture changes in microstruture \[1\]. This often requires many model evaluations so having a computational efficient model is important. 
 
 ### Meta-model of Bloch-Torrey equation
 
-<figure style="float: right; padding-top:20px;  padding-left:20px; ">
+<figure style="float: right; padding-top:40px;  padding-left:20px; ">
 <img src="/assets/img/diameter-fingerprint.png"  width="400">     
-<figcaption>example of a pulse 'fingerprint' for radial diffusivity</figcaption>
+<figcaption>fractional anisotropy for changes in diameter and diffusion time</figcaption>
 </figure>
 
-The numerical LBM model of dMRI is computationally expensive. To allow for faster estimation, we can use a meta-model of the LBM mdoel. A meta-model is a model of a model, it models the relationsip between the input and the output of the underlying model with no regard for the actual physics \[1, 2\]. Since we are often just trying to adjust the microstrucutral paraemters to match the measured dMRI signal, this is perfect for our needs. The meta-model fits a polynomial to previous results from the numerical LBM model. This yields a polynomial which is much faster to evaluate than solving the numerical LBM model while retaining much of the accuracy. One use of this meta-model is being able to easily see how changes in different parameters
+The numerical LBM model of dMRI is computationally expensive. To allow for faster estimation, we can use a meta-model of the LBM mdoel. A meta-model is a model of a model, it models the relationsip between the input and the output of the underlying model with no regard for the actual physics \[2, 3\]. Since we are often just trying to adjust the microstrucutral paraemters to match the measured dMRI signal, this is perfect for our needs. The meta-model fits a polynomial to previous results from the numerical LBM model. This yields a polynomial which is much faster to evaluate than solving the numerical LBM model while retaining much of the accuracy. One use of this meta-model is being able to easily see how changes in different parameters lead to changes in the measured dMRI signal. For example, we can look at how a change in cell diameter affects fractional anisotorpy (FA). Even more interesting, we can also see how measuring the dMRI at different diffusion times also leads to chagnes in FA. By measuring at multiple diffusion times we can get a 'fingerprint' for a specific cell diameter. 
 
 ### PGSE pulse optimization for microstruture encoding
 
@@ -24,6 +24,8 @@ The numerical LBM model of dMRI is computationally expensive. To allow for faste
 <img src="/assets/img/final_parameter_selection.PNG"  width="400">     
 <figcaption>dMRI pulse optimization for microstructure encoding</figcaption>
 </figure>
+
+Identifying these fingerprints for different combinations of microstrucutral parameters will help us estimate microstructure from the dMRI signal, but we also want to know what types of dMRI pulses will best allow us to do this. Being able to aquire the same microstruutral information using fewer pulse sequences leads to shorter aquisition times, something anyone who has ever had an MRI can appreciate. Using the meta-mdoel we can look at which pulse profiles give the largest range for dMRI measurements, and in particular, what combinations of pulse profiles allows us to encode the most possible information abotu the microstruture into the dMRI signals \[1\]. 
 
 ### Inverting the numerical LBM model
 
@@ -33,9 +35,9 @@ While the numerical LBM model is slow, it is still the most accurate model avail
 
 ### References
 
-\[2\] Naughton NM, Gallo NR, Anderson AT, and Georgiadis JG. Comparison of dMRI Models for Skeletal Muscle Microstructure Estimations with Numerical Simulations and Myocardial Porcine Phantom. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster)
+\[1\] Naughton NM, Gallo NR, Anderson AT, and Georgiadis JG. Comparison of dMRI Models for Skeletal Muscle Microstructure Estimations with Numerical Simulations and Myocardial Porcine Phantom. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster)
 
-\[1\] Naughton NM and Georgiadis JG. Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration. PEARC 2019 (July 2019), Chicago, Illinois (platform presentation)
+\[2\] Naughton NM and Georgiadis JG. Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration. PEARC 2019 (July 2019), Chicago, Illinois (platform presentation)
 
 \[3\] Naughton NM, Jain A, and Georgiadis JG. Polynomial Meta-Model of Bloch-Torrey Equation for Track-based Regularization of Microstructural Inversion. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster)
 
