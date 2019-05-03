@@ -50,7 +50,8 @@ Another advantage of having this in silico phantom is being able to easily chang
 
 While the simplified REV model allows us to precisely control and measure changes in the microstrcture, skeletal muscle has a more complex, disordered organization. Simulating the dMRI over realistic domains obtained from histology images of muscle allows us to compare how well our simplified REV compares wtih these more realistic geometries. It also allows us to examine how strucutral features not considered by the REV migth effect the dMRI signal. By performing these histologically informed simulations, we have found that ellipticity of fascicles may explain the observed transverse anisotorpy of the measured diffusion tensor \[4\].
 
-### References
+### Related Publications
+
 \[1\] Naughton NM, Tennyson C, and Georgiadis JG. Lattice Boltzmann method for simulation of diffusion magnetic resonance imaging physics in heterogeneous tissue models. Journal of Computational Physics, (under review).
 
 \[2\] Naughton NM and Georgiadis JG. Comparison of two-compartment exchange and continuum models of dMRI in skeletal muscle. Physics in Medicine and Biology, (in revision).
