@@ -15,7 +15,7 @@ Solving the Bloch-Torrey equation for different microstructural geometries allow
 <br/> <br/>
 $$ S(t) = \int_{V}|\bm{M}(\bm{x},t)|d\bm{x}$$ .
 
-<figure style="float: right; padding-right:20px; padding-top:20px;">
+<figure style="float: right; padding-left:20px; padding-top:10px;">
 <img src="/assets/img/REV.png"  width="350">     
 <figcaption>Chicken skeletal muscle and <br/> simplified REV model</figcaption>
 </figure>
