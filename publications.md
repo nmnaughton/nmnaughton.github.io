@@ -8,7 +8,7 @@ title: Publications
 
 ## Journal Articles
 
-**Naughton NM**, Tennyson C, and Georgiadis JG. Lattice Boltzmann method for simulation of diffusion magnetic resonance imaging physics in heterogeneous tissue models. Journal of Computational Physics, (under review). [preprint](/pages/pubs/2019_JCP_Naughton-preprint.pdf/){target="_blank"}
+**Naughton NM**, Tennyson C, and Georgiadis JG. Lattice Boltzmann method for simulation of diffusion magnetic resonance imaging physics in heterogeneous tissue models. Journal of Computational Physics, (under review). [preprint](/pages/pubs/2019_JCP_Naughton-preprint.pdf/){: target="_blank"}
 
 **Naughton NM** and Georgiadis JG. Comparison of two-compartment exchange and continuum models of dMRI in skeletal muscle. Physics in Medicine and Biology, (in revision). [preprint](/pages/pubs/2019_PMB_Naughton-preprint.pdf/)
 
