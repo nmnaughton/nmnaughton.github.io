@@ -13,14 +13,14 @@ The inverse problem, as its name implies, is ultimately about working in the inv
 
 <figure style="float: right; padding-top:40px;  padding-left:20px; ">
 <img src="/assets/img/diameter-fingerprint.png"  width="400">     
-<figcaption>fractional anisotropy for changes in diameter and diffusion time</figcaption>
+<figcaption>how changes in diameter and diffusion time affect FA</figcaption>
 </figure>
 
 The numerical LBM model of dMRI is computationally expensive. To allow for faster estimation, we can use a meta-model of the LBM model. A meta-model is a model of a model, it models the relationship between the input and the output of the underlying model with no regard for the actual physics \[1, 3\]. Since we are often just trying to adjust the microstructural parameters to match the measured dMRI signal, this is perfect for our needs. The meta-model fits a polynomial to previous results from the numerical LBM model. This yields a polynomial which is much faster to evaluate than solving the numerical LBM model while retaining much of the accuracy. One use of this meta-model is being able to easily see how changes in different parameters lead to changes in the measured dMRI signal. For example, we can look at how a change in cell diameter affects fractional anisotropy (FA). Even more interesting, we can also see how measuring the dMRI at different diffusion times also leads to chagnes in FA. By measuring multiple diffusion times, we can get a 'fingerprint' for a specific cell diameter. 
 
 ### PGSE pulse optimization for microstructure encoding
 
-<figure style="float: left; padding-top:20px;  padding-right:30px; ">
+<figure style="float: left; padding-top:20px;  padding-right:20px; ">
 <img src="/assets/img/final_parameter_selection.PNG"  width="400">     
 <figcaption>dMRI pulse optimization for microstructure encoding</figcaption>
 </figure>
