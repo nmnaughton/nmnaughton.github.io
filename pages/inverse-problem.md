@@ -25,7 +25,7 @@ The numerical LBM model of dMRI is computationally expensive. To allow for faste
 <figcaption>dMRI pulse optimization for microstructure encoding</figcaption>
 </figure>
 
-Identifying these fingerprints for different combinations of microstructural parameters helps us estimate microstructure from the dMRI signal, but we also want to know what types of dMRI pulses will best allow us to do this. Being able to acquire the same microstructural information using fewer pulse sequences leads to shorter acquisition times, something anyone who has ever had an MRI can appreciate. Using the meta-model we look at which pulse profiles give the largest range for dMRI measurements, and in particular, what combinations of pulse profiles allows us to encode the most possible information about the microstructure into the dMRI signals [[1]][#1]. 
+Identifying these fingerprints for different combinations of microstructural parameters helps us estimate microstructure from the dMRI signal, but we also want to know what types of dMRI pulses will best allow us to do this. Being able to acquire the same microstructural information using fewer pulse sequences leads to shorter acquisition times, something anyone who has ever had an MRI can appreciate. Using the meta-model we look at which pulse profiles give the largest range for dMRI measurements, and in particular, what combinations of pulse profiles allows us to encode the most possible information about the microstructure into the dMRI signals [[1]](#1). 
 
 ### Inverting the numerical LBM model
 
