@@ -15,15 +15,15 @@ Solving the Bloch-Torrey equation for different microstructural geometries allow
 <br/> <br/>
 $$ S(t) = \int_{V}|\bm{M}(\bm{x},t)|d\bm{x}$$ .
 
-<figure style="float: right; padding-right:20px; padding-top:20px;">
-<img src="/assets/img/REV.png"  width="300">     
-<figcaption>Chicken skeletal muscle and <br\> simplified REV model</figcaption>
+<figure style="float: right; padding-right:10px; padding-top:20px;">
+<img src="/assets/img/REV.png"  width="400">     
+<figcaption>Chicken skeletal muscle and <br/> simplified REV model</figcaption>
 </figure>
 
 This averaging smears the signal, making it difficult to directly connect the dMRI measurement with the underlying microstructure. However, because of muscle's semi-periodic structure, it is still possible to infer microstructural parameters from the dMRI signal. Muscle consists of many long fibers that are tightly bundled together. By assuming that these fibers all have the same cross-sectional shape and are packed together in the same way we can approximate the muscle strucutre using a simplified model that we call a Representative Elementary Volume (REV). This REV model allows us to parameterize the model and understand how changes in these microstructural parameters (for example, the cell diameter) lead to changes in the dMRI signal.
 
 
-<figure style="float: right; padding-top:150px;  padding-left:20px;">
+<figure style="float: right; padding-top:150px;  padding-left:10px;">
 <img src="/assets/video/REV-animation.gif"  width="400">     
 <figcaption>evolution of dMRI signal in REV model</figcaption>
 </figure>
