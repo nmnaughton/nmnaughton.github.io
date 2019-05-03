@@ -10,7 +10,7 @@ title: Inverse Problem
 ### Meta-model of Bloch-Torrey equation
 
 <figure style="float: right; padding-top:20px;  padding-left:20px; ">
-<img src="/assets/img/RD_fingerprint.PNG"  width="400">     
+<img src="/assets/img/RD_fingerprint.png"  width="400">     
 <figcaption>example pulse fingerprint for radial diffusivity</figcaption>
 </figure>
 
