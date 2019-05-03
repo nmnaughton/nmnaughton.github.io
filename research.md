@@ -23,7 +23,7 @@ My current research focus is on non-invasively measuring the microstructure (or 
 
 I am working on measuring this microstructure using diffusion-weighted magnetic resonance imaging (dMRI) and using these measurments to inform mechancial models of muscle microstructure. These mechanical models show how the muscle’s mechancial properties are affected by changes in the microstructure. This work can be broadly organized as three separate but interrelated problems:  
 
-<figure style="float: left; padding-right:20px; padding-top:20px;">
+<figure style="float: left; padding-right:20px; padding-top:10px;">
 <img src="/assets/img/dMRI.png"  width="250">
 <figcaption>dMRI of human thigh</figcaption>
 </figure>
@@ -34,7 +34,8 @@ I am working on measuring this microstructure using diffusion-weighted magnetic 
 
 [The Mechanical Problem](#mechanical-problem): Using microstructural information to understand mechanical properties of muscle. 
 
-<br/>By combining solutions to these problems, I hope to create an imaging pipeline that can image a skeletal muscle, estimate its microstructure, and use this microstructural information to better inform understanding of the mechancial function of the muscle. Much of this work is based on measuring the muscle's microstructure using dMRI. dMRI measures the movement of water molecules, and by measuring how the presence of microstructural restrictions affects the movement of these water molecules, we can measure the cumulative effect of the microstructure on the dMRI signal. The following is a brief video explaining how we can measure muscle microstructure using dMRI. 
+<br/>
+By combining solutions to these problems, I hope to create an imaging pipeline that can image a skeletal muscle, estimate its microstructure, and use this microstructural information to better inform understanding of the mechancial function of the muscle. Much of this work is based on measuring the muscle's microstructure using dMRI. dMRI measures the movement of water molecules, and by measuring how the presence of microstructural restrictions affects the movement of these water molecules, we can measure the cumulative effect of the microstructure on the dMRI signal. The following is a brief video explaining how we can measure muscle microstructure using dMRI. 
 
 &nbsp;
 
