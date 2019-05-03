@@ -25,7 +25,7 @@ The numerical LBM model of dMRI is computationally expensive. To allow for faste
 <figcaption>dMRI pulse optimization for microstructure encoding</figcaption>
 </figure>
 
-Identifying these fingerprints for different combinations of microstructural parameters helps us estimate microstructure from the dMRI signal, but we also want to know what types of dMRI pulses will best allow us to do this. Being able to acquire the same microstructural information using fewer pulse sequences leads to shorter acquisition times, something anyone who has ever had an MRI can appreciate. Using the meta-model we look at which pulse profiles give the largest range for dMRI measurements, and in particular, what combinations of pulse profiles allows us to encode the most possible information about the microstructure into the dMRI signals [[1]][1]. 
+Identifying these fingerprints for different combinations of microstructural parameters helps us estimate microstructure from the dMRI signal, but we also want to know what types of dMRI pulses will best allow us to do this. Being able to acquire the same microstructural information using fewer pulse sequences leads to shorter acquisition times, something anyone who has ever had an MRI can appreciate. Using the meta-model we look at which pulse profiles give the largest range for dMRI measurements, and in particular, what combinations of pulse profiles allows us to encode the most possible information about the microstructure into the dMRI signals [[1]][#1]. 
 
 ### Inverting the numerical LBM model
 
@@ -39,7 +39,7 @@ Solving the inverse problem and being able to predict the microstructure of skel
 
 ### Related Publications
 
-[1] Naughton NM and Georgiadis JG. Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration. PEARC 2019 (July 2019), Chicago, Illinois (platform presentation)
+\[1\]<a name="1"></a> Naughton NM and Georgiadis JG. Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration. PEARC 2019 (July 2019), Chicago, Illinois (platform presentation)
 
 \[2\] Naughton NM, Gallo NR, Anderson AT, and Georgiadis JG. Comparison of dMRI Models for Skeletal Muscle Microstructure Estimations with Numerical Simulations and Myocardial Porcine Phantom. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster)
 
