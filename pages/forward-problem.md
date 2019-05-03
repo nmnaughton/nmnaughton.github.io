@@ -52,8 +52,8 @@ While the simplified REV model allows us to precisely control and measure change
 
 \[1\]<a id="ref1"></a> Naughton NM, Tennyson C, and Georgiadis JG. Lattice Boltzmann method for simulation of diffusion magnetic resonance imaging physics in heterogeneous tissue models. Journal of Computational Physics, (under review).
 
-\[2\]<a id="ref1"></a> Naughton NM and Georgiadis JG. Comparison of two-compartment exchange and continuum models of dMRI in skeletal muscle. Physics in Medicine and Biology, (in revision).
+\[2\]<a id="ref2"></a> Naughton NM and Georgiadis JG. Comparison of two-compartment exchange and continuum models of dMRI in skeletal muscle. Physics in Medicine and Biology, (in revision).
 
-\[3\]<a id="ref1"></a> Naughton, N. and Georgiadis J., “Global Sensitivity Analysis of Skeletal Muscle dMRI: Effects of Microstructural and PGSE Pulse Parameters,” Magnetic Resonance in Medicine, (in preparation).
+\[3\]<a id="ref3"></a> Naughton, N. and Georgiadis J., “Global Sensitivity Analysis of Skeletal Muscle dMRI: Effects of Microstructural and PGSE Pulse Parameters,” Magnetic Resonance in Medicine, (in preparation).
 
-\[4\]<a id="ref1"></a> Naughton NM, Wang A, and Georgiadis JG. Fascicle Ellipticity as an Explanation of Transverse Anisotropy in Diffusion MRI Measurements of Skeletal Muscle. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster)
+\[4\]<a id="ref4"></a> Naughton NM, Wang A, and Georgiadis JG. Fascicle Ellipticity as an Explanation of Transverse Anisotropy in Diffusion MRI Measurements of Skeletal Muscle. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster)
