@@ -12,7 +12,7 @@ title: Mechanical Problem
 <figcaption>simplified model of muscle</figcaption>
 </figure>
 
-Using the estimates of the skeletal muscle's microstructure from the solution of the [inverse problem](/pages/inverse-problem/), we can now investigate how changes in the microstructure effects the ability of the muscle to transmit force. It effects the muscle by changing the effective mechanical properties of the tissue. By creating micro-mechanical models of the microstructure, we can investigate how these effective properties are influences by changes in the microstructure, not unsimilar to what we did with diffusion in the [forward problem](/pages/forward-problem/). 
+Solving the [inverse problem](/pages/inverse-problem/) gives us estimates of the skeletal muscle's microstructure. We can use these estimates to investigate how changes in the microstructure affects the ability of the muscle to transmit force. Changes in the microstruture lead to changes in the mechancial properties of muscle and these mechancial properties influence how well force is transmited through the muscle. By creating micro-mechanical models of the microstructure, we can investigate how these effective properties are influenced by changes in the microstructure, not unsimilar to what we did with diffusion in the [forward problem](/pages/forward-problem/). 
 
 This is an area of my research that I am just starting so I do not have much to report yet, but I should have results soon!
 
