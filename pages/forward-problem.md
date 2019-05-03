@@ -41,14 +41,14 @@ Using this LBM model we have an accurate solution of the Bloch-Torrey equation t
 Another advantage of having this in silico phantom is being able to easily change the microstrucutral parameters to see how these changes effect the dMRI signal. By doing this in a systematic fashion we can perform a sensitivity analysis to understand how changes in tissue mcirostruture and dMRI pulse parameters lead to changes in the dMRI signal \[3\]. Understanding this sensitivity helps us interpret dMRI measurements and also design pulse sequences that able to efficently encode microstrucutral information. Both of these insights are important in giving us the correct cools to accuratly solve the [inverse problem](/pages/inverse-problem/).
 
 
-### Simulating realistic histology iamges
+### Simulating realistic histology images
 
-<figure style="float: left; padding-right:20px;">
+<figure style="float: left; padding-right:20px; padding-top:20px;">
 <img src="/assets/img/final_frame_hist.png"  width="250">     
-<figcaption>dMRI signal of skeletal muscle from histology image</figcaption>
+<figcaption>dMRI signal of skeletal muscle <br/> from histology image</figcaption>
 </figure>
 
-While the simplified REV model allows us to precisely control and measure changes in the microstrcture, skeletal muscle has a more complex, disordered organization. Simulating the dMRI over realistic domains obtained from histology images of muscle allows us to compare how well our simplified REV compares wtih these more realistic geometries. It also allows us to examine how strucutral features not considered by the REV migth effect the dMRI signal. By performing these histologically informed simulations, we have found that ellipticity of fascicles may explain the observed transverse anisotorpy of the measured diffusion tensor [\4\].
+While the simplified REV model allows us to precisely control and measure changes in the microstrcture, skeletal muscle has a more complex, disordered organization. Simulating the dMRI over realistic domains obtained from histology images of muscle allows us to compare how well our simplified REV compares wtih these more realistic geometries. It also allows us to examine how strucutral features not considered by the REV migth effect the dMRI signal. By performing these histologically informed simulations, we have found that ellipticity of fascicles may explain the observed transverse anisotorpy of the measured diffusion tensor \[4\].
 
 ### References
 \[1\] Naughton NM, Tennyson C, and Georgiadis JG. Lattice Boltzmann method for simulation of diffusion magnetic resonance imaging physics in heterogeneous tissue models. Journal of Computational Physics, (under review).
