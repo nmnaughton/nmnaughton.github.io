@@ -37,7 +37,7 @@ Does the problem even exist if you don't use machine learning to try and solve i
 
 Solving the inverse problem and being able to predict the microstruture of skeletal muscle from dMRI signal will likely require a combination of different models, each with its own strengths and weakness. By combining these models we will be able to take a dMRI measurement and estimate what the underlying tissue microstruture is. These microstrutural estiamtes will then be used in micro-mechancial models of muscle to solve the [mechanical problem](/pages/mechanical-problem/) of understanding how microstrutural variations affect the effective mechacnial properties of msucle, and by extension, the ability of the muscle to transmit force and function. 
 
-### References
+### Related Publications
 
 \[1\] Naughton NM and Georgiadis JG. Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration. PEARC 2019 (July 2019), Chicago, Illinois (platform presentation)
 
