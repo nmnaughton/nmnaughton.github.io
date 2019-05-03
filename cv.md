@@ -2,9 +2,7 @@
 layout: page
 title: Curriculum Vitae
 ---
-[Download C.V.](/assets/Noel.Naughton.CV.pdf)
-
-<a href="/assets/Noel.Naughton.CV.pdf" download>Click to Download</a>
+<a href="/assets/Noel.Naughton.CV.pdf" download>Click to Download C.V.</a>
 
 &nbsp;
 
