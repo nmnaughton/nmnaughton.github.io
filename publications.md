@@ -8,9 +8,9 @@ title: Publications
 
 ## Journal Articles
 
-**Naughton NM**, Tennyson C, and Georgiadis JG. Lattice Boltzmann method for simulation of diffusion magnetic resonance imaging physics in heterogeneous tissue models. Journal of Computational Physics, (under review).
+**Naughton NM**, Tennyson C, and Georgiadis JG. Lattice Boltzmann method for simulation of diffusion magnetic resonance imaging physics in heterogeneous tissue models. Journal of Computational Physics, (under review). [preprint](/pages/pubs/2019_JCP_Naughton-preprint.pdf/)
 
-**Naughton NM** and Georgiadis JG. Comparison of two-compartment exchange and continuum models of dMRI in skeletal muscle. Physics in Medicine and Biology, (in revision).
+**Naughton NM** and Georgiadis JG. Comparison of two-compartment exchange and continuum models of dMRI in skeletal muscle. Physics in Medicine and Biology, (in revision). [preprint](/pages/pubs/2019_PMB_Naughton-preprint.pdf/)
 
 **Naughton NM**, Plourde BD, Stark JR, Hodis S, Abraham JP. Impacts of waveforms on the fluid flow, wall shear stress, and flow distribution in cerebral aneurysms and the development of a universal reduced pressure. Journal of Biomedical Science and Engineering. 2014 Jan 2;7(01):7. doi: [10.4236/jbise.2014.71002](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=41615).  
 
@@ -18,19 +18,19 @@ title: Publications
 
 ### 2019
 
-**Naughton NM** and Georgiadis JG. Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration. PEARC 2019 (July 2019), Chicago, Illinois (platform presentation)
+**Naughton NM** and Georgiadis JG. Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration. PEARC 2019 (July 2019), Chicago, Illinois (platform presentation) [preprint](/pages/pubs/2019_PEARC-submitted.pdf/)
 
-**Naughton NM**, Gallo NR, Anderson AT, and Georgiadis JG. Comparison of dMRI Models for Skeletal Muscle Microstructure Estimations with Numerical Simulations and Myocardial Porcine Phantom. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster)
+**Naughton NM**, Gallo NR, Anderson AT, and Georgiadis JG. Comparison of dMRI Models for Skeletal Muscle Microstructure Estimations with Numerical Simulations and Myocardial Porcine Phantom. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster) [abstract](/pages/pubs/2019_ISMRM_dMRI-model-comparison.pdf/)
 
-**Naughton NM**, Jain A, and Georgiadis JG. Polynomial Meta-Model of Bloch-Torrey Equation for Track-based Regularization of Microstructural Inversion. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster)
+**Naughton NM**, Jain A, and Georgiadis JG. Polynomial Meta-Model of Bloch-Torrey Equation for Track-based Regularization of Microstructural Inversion. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster) [abstract](/pages/pubs/2019_ISMRM_polynomial-meta-model.pdf/)
 
-**Naughton NM**, Wang A, and Georgiadis JG. Fascicle Ellipticity as an Explanation of Transverse Anisotropy in Diffusion MRI Measurements of Skeletal Muscle. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster)
+**Naughton NM**, Wang A, and Georgiadis JG. Fascicle Ellipticity as an Explanation of Transverse Anisotropy in Diffusion MRI Measurements of Skeletal Muscle. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster) [abstract](/pages/pubs/2019_ISMRM_fascicle-ellipticity.pdf/)
 
-**Naughton NM**, Gallo NR, Anderson AT, and Georgiadis JG. Microstructural Parameter Estimation of Skeletal Muscle using Random Forest Model of dMRI. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster)
+**Naughton NM**, Gallo NR, Anderson AT, and Georgiadis JG. Microstructural Parameter Estimation of Skeletal Muscle using Random Forest Model of dMRI. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster) [abstract](/pages/pubs/2019_ISMRM_random-forest.pdf/)
 
 ### 2018
 
-**Naughton NM**, Gallo NR, Vaicik M, Anderson AT, Sutton BP, and Georgiadis JG. “Estimation of Extracellular Matrix Diffusion Properties in Decellularized Porcine Myocardium from DTI” ISMRM Annual Meeting (June 2018), Paris, France (poster)
+**Naughton NM**, Gallo NR, Vaicik M, Anderson AT, Sutton BP, and Georgiadis JG. “Estimation of Extracellular Matrix Diffusion Properties in Decellularized Porcine Myocardium from DTI” ISMRM Annual Meeting (June 2018), Paris, France (poster) [abstract](/pages/pubs/2018_ISMRM.pdf/)
 
 ### 2017 
 
