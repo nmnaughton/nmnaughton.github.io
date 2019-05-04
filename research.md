@@ -39,7 +39,10 @@ By solving these three problems, I am working to create an imaging pipeline that
 
 &nbsp;
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KDJG7JLhH2M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kj3s-ayh6VE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figcaption>Video I submitted to ISMRM Magnetic Moments competition explaining dMRI to the public</figcaption>
+</figure>
 
 &nbsp;
 
