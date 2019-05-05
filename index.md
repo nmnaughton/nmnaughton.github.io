@@ -4,8 +4,19 @@ title: Welcome!
 cover: True
 cover_image: assets/img/final_frame_hist.png
 ---
-Welcome to my personal website! 
+Welcome to my personal website. 
 
-Please look around and don't hesitate to contact me if you find anything interesting! 
+Please reach out and contact me if you find anything of interest. I look forward to talking to you. 
 
-&nbsp;
+[About Me](/about/)
+
+[Research Overview](research/)
+* [Forward Problem](/pages/forward-problem/)
+* [Inverse Problem](/pages/inverse-problem/)
+* [Mechanical Problem](/pages/mechanical-problem/)
+
+[Publications](/publications/)
+
+[Curriculum Vitae](/cv/)
+
+
