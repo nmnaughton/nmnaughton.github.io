@@ -23,8 +23,7 @@ I am currently finishing my PhD in [Mechanical Engineering](https://mechse.illin
 
 My current research focus is on computational modeling of skeletal muscle. In particular, I am working on predicting microstructural parameters of muscle using diffusion-weighted magnetic resonance imaging (dMRI) and on micro-mechanical modeling of how muscle microstructure affects mechancial properties of muscle. More broadly, I am interested in how computational models can be leveraged to solve inverse problems in a variety of situations.
 
-
-Please have a look around this website and feel free to contact me with any questions!
+Interested in these topics? Shoot me and email and let's chat. 
 
 email: [nnaught2@illinois.edu](mailto:nnaught2@illinois.edu)
 
