@@ -39,7 +39,7 @@ Solving the inverse problem and being able to predict the microstructure of skel
 
 ### Related Publications
 
-\[1\]<a id="ref1"></a> Naughton NM and Georgiadis JG. Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration. PEARC 2019 (July 2019), Chicago, Illinois (platform presentation)
+\[1\]<a id="ref1"></a> Naughton NM and Georgiadis JG. Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration. PEARC19 (July 2019), Chicago, Illinois (platform presentation)
 
 \[2\]<a id="ref2"></a> Naughton NM, Gallo NR, Anderson AT, and Georgiadis JG. Comparison of dMRI Models for Skeletal Muscle Microstructure Estimations with Numerical Simulations and Myocardial Porcine Phantom. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster)
 
