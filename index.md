@@ -8,6 +8,8 @@ Welcome to my personal website.
 
 Please reach out and contact me if you find anything of interest. I look forward to talking to you. 
 
+Sitemap:
+
 [About Me](/about/)
 
 [Research Overview](research/)
