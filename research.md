@@ -35,7 +35,7 @@ I work on measuring this microstructure using diffusion-weighted magnetic resona
 [The Mechanical Problem](#mechanical-problem): Using microstructural information to understand mechanical properties of muscle. 
 
 <br/> <br/>
-By solving these three problems, I am working to create an imaging pipeline that can image a skeletal muscle, estimate its microstructure, and use this microstructural information to estimate mechancial properties of the muscle. This pipline will better inform our understanding of muscle's functional ability. Much of this work is based on measuring the muscle's microstructure using dMRI. dMRI measures the movement of water molecules. By measuring how microstructural restrictions affect the movement of these water molecules, we can measure the cumulative effect of the microstructure on the dMRI signal. For a brief introduction into how we can measure muscle microstructure using dMRI, check out the video below. 
+By solving these three problems, I am working to create an imaging pipeline that can image a skeletal muscle, estimate its microstructure, and use this microstructural information to estimate mechancial properties of the muscle. This pipeline will better inform our understanding of muscle's functional ability. Much of this work is based on measuring the muscle's microstructure using dMRI. dMRI measures the movement of water molecules. By measuring how microstructural restrictions affect the movement of these water molecules, we can measure the cumulative effect of the microstructure on the dMRI signal. For a brief introduction into how we can measure muscle microstructure using dMRI, check out the video below. 
 
 &nbsp;
 
@@ -65,7 +65,7 @@ How do changes in skeletal muscle microstructure affect the dMRI signal? In orde
 
 # Inverse Problem
 
-The inverse problem asks how do you take the dMRI signal and determine the microstructure of the muscle from it? We use the insights we gain from solving the forward problem to invert the forward problem by taking the measured dMRI signal and going backwards to the original microstructure that caused the signal. These models consist of analytical compartment models, numerical inversion methods, meta-models and machine learning techniques. They allow us to determine what dMRI pulse sequences encode the most information into the signal and how to decode this information to recover the underlying microstructure.
+The inverse problem asks "how do you take the dMRI signal and determine the microstructure of the muscle from it?" We use the insights we gain from solving the forward problem to invert the forward problem by taking the measured dMRI signal and going backwards to the original microstructure that caused the signal. These models consist of analytical compartment models, numerical inversion methods, meta-models and machine learning techniques. They allow us to determine what dMRI pulse sequences encode the most information into the signal and how to decode this information to recover the underlying microstructure.
 
 [learn more](/pages/inverse-problem/)
 
