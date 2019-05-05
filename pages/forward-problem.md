@@ -28,7 +28,7 @@ This averaging smears the signal, making it difficult to directly connect the dM
 
 ### Solving the Bloch-Torrey equation
 
-Solving the Bloch-Torrey equation can be done analytically for simple shapes, however, over more complex domains, such as the REV, it is necessary to use numerical methods. We use the lattice Boltzmann method which is an efficient solution technique that can be easily parallelized to take advantage of high-performance computing (HPC) resources [\[1\]](#ref1). Thanks to a startup allocation from [XSEDE](https://xsede.org/), we have shown that the model can efficiently scale to over 160 cores on [SDSU's](https://www.sdsc.edu/) Comet cluster. 
+Solving the Bloch-Torrey equation can be done analytically for simple shapes, however, over more complex domains, such as the REV, it is necessary to use numerical methods. We use the lattice Boltzmann method which is an efficient solution technique that can be easily parallelized to take advantage of high-performance computing (HPC) resources [\[1\]](#ref1). Thanks to a startup allocation from [XSEDE](https://xsede.org/), we have shown that the model can efficiently scale to over 160 cores on [SDSC's](https://www.sdsc.edu/) Comet cluster. 
 
 ### Validating existing models
 
@@ -54,6 +54,6 @@ While the simplified REV model allows us to precisely control and measure change
 
 \[2\]<a id="ref2"></a> Naughton NM and Georgiadis JG. Comparison of two-compartment exchange and continuum models of dMRI in skeletal muscle. Physics in Medicine and Biology, (in revision).
 
-\[3\]<a id="ref3"></a> Naughton, N. and Georgiadis J., “Global Sensitivity Analysis of Skeletal Muscle dMRI: Effects of Microstructural and PGSE Pulse Parameters,” Magnetic Resonance in Medicine, (in preparation).
+\[3\]<a id="ref3"></a> Naughton, NM and Georgiadis JG. Global Sensitivity Analysis of Skeletal Muscle dMRI: Effects of Microstructural and PGSE Pulse Parameters. Magnetic Resonance in Medicine, (in preparation).
 
 \[4\]<a id="ref4"></a> Naughton NM, Wang A, and Georgiadis JG. Fascicle Ellipticity as an Explanation of Transverse Anisotropy in Diffusion MRI Measurements of Skeletal Muscle. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster)
