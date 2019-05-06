@@ -58,7 +58,7 @@ How do changes in skeletal muscle microstructure affect the dMRI signal? In orde
 
 [learn more](/pages/forward-problem/)
 
-<figure style="float: left; padding-top:150px;  padding-right:20px; padding-bottom:60px;">
+<figure style="float: left; padding-top:150px;  padding-right:20px; padding-bottom:70px;">
 <img src="/assets/img/final_parameter_selection.PNG"  width="400">     
 <figcaption>dMRI pulse optimization for microstructure encoding</figcaption>
 </figure>
@@ -70,7 +70,7 @@ The inverse problem asks "how do you take the dMRI signal and determine the micr
 [learn more](/pages/inverse-problem/)
 
 
-<figure style="float: right; padding-top:150px;  padding-left:20px; padding-bottom:60px;">
+<figure style="float: right; padding-top:150px;  padding-left:20px; padding-bottom:50px;">
 <img src="/assets/img/muscle_schematic.png"  width="400">     
 <figcaption>simplified model of muscle</figcaption>
 </figure>
