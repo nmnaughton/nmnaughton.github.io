@@ -7,7 +7,7 @@ title: Mechanical Problem
 ---
 ### Estimating mechancial properties of muscle from microstructure
 
-<figure style="float: right; padding-top:20px;  padding-left:20px; padding-bottom:20px;">
+<figure style="float: right; padding-top:20px;  padding-left:20px; padding-bottom:00px;">
 <img src="/assets/img/muscle_schematic.png"  width="300">     
 <figcaption>simplified model of muscle</figcaption>
 </figure>
