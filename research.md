@@ -70,7 +70,7 @@ The inverse problem asks "how do you take the dMRI signal and determine the micr
 [learn more](/pages/inverse-problem/)
 
 
-<figure style="float: right; padding-top:150px;  padding-left:20px; padding-bottom:50px;">
+<figure style="float: right; padding-top:150px;  padding-left:20px; padding-bottom:60px;">
 <img src="/assets/img/muscle_schematic.png"  width="400">     
 <figcaption>simplified model of muscle</figcaption>
 </figure>
