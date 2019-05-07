@@ -14,7 +14,7 @@ $$\frac{\partial \bm{M}}{\partial t} = -i(\gamma \bm{G} \cdot \bm{x})\bm{M} - \f
 Solving the Bloch-Torrey equation for different microstructural geometries allows us to determine what the dMRI signal should be for that particular microstructure. Unfortunately, dMRI in muscle has a resolution size of 1-2 mm while the microstructure being measured is on the order of 10 microns (0.001 mm). This means that when we measure the dMRI signal, we only measure the voxel average of the dMRI signal.
 
 <figure style="float: right; padding-left:20px; padding-top:5px;">
-<img src="/assets/img/REV.png"  width="350">     
+<img src="/assets/img/REV-small.png"  width="350">     
 <figcaption>chicken skeletal muscle and <br/> simplified REV model</figcaption>
 </figure>
 
