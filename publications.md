@@ -7,6 +7,8 @@ title: Publications
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5553-4718" href="https://orcid.org/0000-0002-5553-4718" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-5553-4718</a></div>
 
 ## Journal Articles
+**Naughton, Nm** and Georgiadis JG. Global Sensitivity Analysis of Skeletal Muscle dMRI: Effects of
+Microstructural and PGSE Pulse Parameters. Magnetic Resonance in Medicine, (under review). [preprint](/pages/pubs/2019_MRM_Naughton-preprint.pdf/){: target="_blank"}
 
 **Naughton NM**, Tennyson C, and Georgiadis JG. Lattice Boltzmann method for simulation of diffusion magnetic resonance imaging physics in heterogeneous tissue models. Journal of Computational Physics, (under review). [preprint](/pages/pubs/2019_JCP_Naughton-preprint.pdf/){: target="_blank"}
 
@@ -18,7 +20,7 @@ title: Publications
 
 ### 2019
 
-**Naughton NM** and Georgiadis JG. Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration. PEARC19 (July 2019), Chicago, Illinois (submitted) [preprint](/pages/pubs/2019_PEARC-submitted.pdf/){: target="_blank"}
+**Naughton NM** and Georgiadis JG. Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration. PEARC19 (July 2019), Chicago, Illinois (platform presentation) [preprint](/pages/pubs/2019_PEARC-submitted.pdf/){: target="_blank"}
 
 **Naughton NM**, Gallo NR, Anderson AT, and Georgiadis JG. Comparison of dMRI Models for Skeletal Muscle Microstructure Estimations with Numerical Simulations and Myocardial Porcine Phantom. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster) [abstract](/pages/pubs/2019_ISMRM_dMRI-model-comparison.pdf/){: target="_blank"}
 
