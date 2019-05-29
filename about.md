@@ -20,7 +20,7 @@ hide_description: true
 
 
 <figure style="float: right; padding-left:10px; padding-top:20px;">
-<img src="/assets/img/headshot.jpg" width="300">
+<img src="/assets/img/headshot.jpg" width="250">
 </figure>
 
 
