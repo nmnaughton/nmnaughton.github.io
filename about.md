@@ -17,7 +17,12 @@ hide_description: true
 ---
 
 ## Hello! 
-<img src="/assets/img/headshot.jpg" style="float: right;" width="300">
+
+
+<figure style="float: right; padding-left:10px; padding-top:20px;">
+<img src="/assets/img/headshot.jpg" width="300">
+</figure>
+
 
 I am currently finishing my PhD in [Mechanical Engineering](https://mechse.illinois.edu/){: target="_blank"} at the University of Illinois and expect to graduate Fall 2019. I am from the beautiful St. Paul, MN where I also completed my undergrad at the [University of Saint Thomas](https://stthomas.edu){: target="_blank"}.
 
