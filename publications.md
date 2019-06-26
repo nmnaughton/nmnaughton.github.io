@@ -8,7 +8,7 @@ title: Publications
 
 ## Journal Articles
 **Naughton, NM** and Georgiadis JG. Global Sensitivity Analysis of Skeletal Muscle dMRI: Effects of
-Microstructural and PGSE Pulse Parameters. Magnetic Resonance in Medicine, (under review). [preprint](/pages/pubs/2019_MRM_Naughton-preprint.pdf/){: target="_blank"}
+Microstructural and PGSE Pulse Parameters. Magnetic Resonance in Medicine, (in revision). [preprint](/pages/pubs/2019_MRM_Naughton-preprint.pdf/){: target="_blank"}
 
 **Naughton NM**, Tennyson C, and Georgiadis JG. Lattice Boltzmann method for simulation of diffusion magnetic resonance imaging physics in heterogeneous tissue models. Journal of Computational Physics, (under review). [preprint](/pages/pubs/2019_JCP_Naughton-preprint.pdf/){: target="_blank"}
 
