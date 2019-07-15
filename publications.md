@@ -11,7 +11,7 @@ title: Publications
 
 **Naughton NM**, Plourde BD, Stark JR, Hodis S, Abraham JP. *Impacts of waveforms on the fluid flow, wall shear stress, and flow distribution in cerebral aneurysms and the development of a universal reduced pressure. Journal of Biomedical Science and Engineering*. 2014 Jan 2;7(01):7. doi: [10.4236/jbise.2014.71002](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=41615){: target="_blank"}.  
 
-# Preprints
+### Preprints
 **Naughton, NM** and Georgiadis JG. *Global Sensitivity Analysis of Skeletal Muscle dMRI: Effects of
 Microstructural and PGSE Pulse Parameters*. Magnetic Resonance in Medicine, (in revision). [preprint](/pages/pubs/2019_MRM_Naughton-preprint.pdf/){: target="_blank"}
 
