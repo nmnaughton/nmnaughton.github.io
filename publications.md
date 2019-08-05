@@ -5,7 +5,7 @@ title: Publications
 ---
 
 ## Journal Articles
-**Naughton NM** and Georgiadis JG. *Comparison of two-compartment exchange and continuum models of dMRI in skeletal muscle*. Physics in Medicine and Biology, 2019 Aug 1;64(15)155004. doi: [10.1088/1361-6560/ab2aa6](https://doi.org/10.1088/1361-6560/ab2aa6){: target="_blank"}
+**Naughton NM** and Georgiadis JG. *Comparison of two-compartment exchange and continuum models of dMRI in skeletal muscle*. Physics in Medicine and Biology, 2019 Aug 1;64(15):155004. doi: [10.1088/1361-6560/ab2aa6](https://doi.org/10.1088/1361-6560/ab2aa6){: target="_blank"}
 
 **Naughton NM**, Plourde BD, Stark JR, Hodis S, Abraham JP. *Impacts of waveforms on the fluid flow, wall shear stress, and flow distribution in cerebral aneurysms and the development of a universal reduced pressure*. Journal of Biomedical Science and Engineering. 2014 Jan 2;7(01):7. doi: [10.4236/jbise.2014.71002](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=41615){: target="_blank"}. 
 
