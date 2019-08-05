@@ -18,8 +18,9 @@ Microstructural and PGSE Pulse Parameters*. Magnetic Resonance in Medicine, (in 
 ## Conference Presentations & Posters
 
 ### 2019
+**Naughton NM**, and Georgiadis JG. *Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration*. Proceedings of the Practice and Experience in Advanced Research Computing on Rise of the Machines (learning) (PEARC '19). p7, Chicago, IL, USA. 2019. doi: [10.1145/3332186.3333054](https://doi.org/10.1145/3332186.3333054){: target="_blank"} ([temporary corrected version](/pages/pubs/2019_PEARC-submitted.pdf){: target="_blank"})
 
-**Naughton NM** and Georgiadis JG. Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration. PEARC19 (July 2019), Chicago, Illinois (in press) [full paper](https://ssl.linklings.net/conferences/pearc/pearc19_program/views/includes/files/stu_pap125s3-file1.pdf){: target="_blank"}
+**Naughton NM** and Georgiadis JG. Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration. PEARC19 (July 2019), Chicago, Illinois (in press) [full paper](10.1145/3332186.3333054){: target="_blank"}
 
 **Naughton NM**, Gallo NR, Anderson AT, and Georgiadis JG. Comparison of dMRI Models for Skeletal Muscle Microstructure Estimations with Numerical Simulations and Myocardial Porcine Phantom. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster) [abstract](/pages/pubs/2019_ISMRM_dMRI-model-comparison.pdf/){: target="_blank"}
 
