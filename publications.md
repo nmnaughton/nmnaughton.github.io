@@ -20,17 +20,17 @@ Microstructural and PGSE Pulse Parameters*. Magnetic Resonance in Medicine, (in 
 ### 2019
 **Naughton NM**, and Georgiadis JG. *Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration*. Proceedings of the Practice and Experience in Advanced Research Computing on Rise of the Machines (learning) (PEARC '19). p7, (July 2019), Chicago, IL, USA. doi: [10.1145/3332186.3333054](https://doi.org/10.1145/3332186.3333054){: target="_blank"} ([temporary corrected version](/pages/pubs/2019_PEARC-submitted.pdf?pdf=PEARC){: target="_blank"})
 
-**Naughton NM**, Gallo NR, Anderson AT, and Georgiadis JG. Comparison of dMRI Models for Skeletal Muscle Microstructure Estimations with Numerical Simulations and Myocardial Porcine Phantom. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster) [abstract](/pages/pubs/2019_ISMRM_dMRI-model-comparison.pdf/){: target="_blank"}
+**Naughton NM**, Gallo NR, Anderson AT, and Georgiadis JG. Comparison of dMRI Models for Skeletal Muscle Microstructure Estimations with Numerical Simulations and Myocardial Porcine Phantom. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster) [abstract](/pages/pubs/2019_ISMRM_dMRI-model-comparison.pdf?pdf=ISMRM_model-compare){: target="_blank"}
 
-**Naughton NM**, Jain A, and Georgiadis JG. Polynomial Meta-Model of Bloch-Torrey Equation for Track-based Regularization of Microstructural Inversion. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster) [abstract](/pages/pubs/2019_ISMRM_polynomial-meta-model.pdf/){: target="_blank"}
+**Naughton NM**, Jain A, and Georgiadis JG. Polynomial Meta-Model of Bloch-Torrey Equation for Track-based Regularization of Microstructural Inversion. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster) [abstract](/pages/pubs/2019_ISMRM_polynomial-meta-model.pdf?pdf=ISMRM_meta-model){: target="_blank"}
 
-**Naughton NM**, Wang A, and Georgiadis JG. Fascicle Ellipticity as an Explanation of Transverse Anisotropy in Diffusion MRI Measurements of Skeletal Muscle. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster) [abstract](/pages/pubs/2019_ISMRM_fascicle-ellipticity.pdf/){: target="_blank"}
+**Naughton NM**, Wang A, and Georgiadis JG. Fascicle Ellipticity as an Explanation of Transverse Anisotropy in Diffusion MRI Measurements of Skeletal Muscle. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster) [abstract](/pages/pubs/2019_ISMRM_fascicle-ellipticity.pdf?pdf=ISMRM_ellipticity){: target="_blank"}
 
-**Naughton NM**, Gallo NR, Anderson AT, and Georgiadis JG. Microstructural Parameter Estimation of Skeletal Muscle using Random Forest Model of dMRI. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster) [abstract](/pages/pubs/2019_ISMRM_random-forest.pdf/){: target="_blank"}
+**Naughton NM**, Gallo NR, Anderson AT, and Georgiadis JG. Microstructural Parameter Estimation of Skeletal Muscle using Random Forest Model of dMRI. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster) [abstract](/pages/pubs/2019_ISMRM_random-forest.pdf?pdf=ISMRM_RFmodel){: target="_blank"}
 
 ### 2018
 
-**Naughton NM**, Gallo NR, Vaicik M, Anderson AT, Sutton BP, and Georgiadis JG. “Estimation of Extracellular Matrix Diffusion Properties in Decellularized Porcine Myocardium from DTI” ISMRM Annual Meeting (June 2018), Paris, France (poster) [abstract](/pages/pubs/2018_ISMRM.pdf/){: target="_blank"}
+**Naughton NM**, Gallo NR, Vaicik M, Anderson AT, Sutton BP, and Georgiadis JG. “Estimation of Extracellular Matrix Diffusion Properties in Decellularized Porcine Myocardium from DTI” ISMRM Annual Meeting (June 2018), Paris, France (poster) [abstract](/pages/pubs/2018_ISMRM.pdf?pdf=ISMRM2018){: target="_blank"}
 
 ### 2017 
 
