@@ -6,7 +6,7 @@ title: Publications
 
 ## Journal Articles
 **Naughton, NM** and Georgiadis JG. *Global Sensitivity Analysis of Skeletal Muscle dMRI: Effects of
-Microstructural and Pulse Parameters*. Magnetic Resonance in Medicine, 2019. (in press). [preprint](/pages/pubs/2019_MRM_Naughton-preprint.R2.pdf?pdf=MRM_sensitivity){: target="_blank"}
+Microstructural and Pulse Parameters*. Magnetic Resonance in Medicine, 2019. doi: [10.1002/mrm.28014](https://onlinelibrary.wiley.com/doi/10.1002/mrm.28014){: target="_blank" onClick=”_gaq.push([‘_trackEvent’, ‘downloads’, ‘click’, ‘whitepaper’, ‘0’]);”} 
 
 **Naughton NM** and Georgiadis JG. *Comparison of two-compartment exchange and continuum models of dMRI in skeletal muscle*. Physics in Medicine and Biology, 2019 Aug 1;64(15):155004. doi: [10.1088/1361-6560/ab2aa6](https://doi.org/10.1088/1361-6560/ab2aa6){: target="_blank" onClick=”_gaq.push([‘_trackEvent’, ‘downloads’, ‘click’, ‘whitepaper’, ‘0’]);”}
 
