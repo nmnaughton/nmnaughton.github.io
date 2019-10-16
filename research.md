@@ -71,7 +71,7 @@ The inverse problem asks "how do you take the dMRI signal and determine the micr
 
 
 <figure style="float: right; padding-top:150px;  padding-left:20px; padding-bottom:50px;">
-<img src="/assets/img/muscle_schematic.png"  width="400">     
+<img src="/assets/img/mechanical_REV.png"  width="400">     
 <figcaption>simplified model of muscle</figcaption>
 </figure>
 
