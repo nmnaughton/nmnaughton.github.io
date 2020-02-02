@@ -16,6 +16,9 @@ title: Publications
 
 ## Conference Presentations & Posters
 
+### 2020
+Gallo NR, Cahoon SM, Anderson AT, **Naughton NM**, Pelegri AA, and Georgiadis JG. Variation of In Vivo Anisotropic MRE Metrics in Corpus Callosum: Effect of Aging. ISMRM Annual Meeting (April 2020), Sydney, Australia 
+
 ### 2019
 **Naughton NM**, and Georgiadis JG. *Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration*. Proceedings of the Practice and Experience in Advanced Research Computing on Rise of the Machines (learning) (PEARC '19). p7, (July 2019), Chicago, IL, USA. doi: [10.1145/3332186.3333054](https://doi.org/10.1145/3332186.3333054){: target="_blank"} ([postprint](/pages/pubs/2019_PEARC_naughton-postprint.pdf))
 
@@ -33,11 +36,10 @@ title: Publications
 
 ### 2017 
 
-**Naughton NM** and Georgiadis JG. Effect of Exercise on Myocellular Lipid Content and Diffusion Tensor Imaging Measurements. Biomedical Engineering Society Annual Meeting (October 2017), Phoenix, Arizona (platform presentation)
+**Naughton NM** and Georgiadis JG. Effect of Exercise on Myocellular Lipid Content and Diffusion Tensor Imaging Measurements. Biomedical Engineering Society Annual Meeting (October 2017), Phoenix, Arizona
 
 ### 2016 
 
-**Naughton NM** and Georgiadis JG. Effect of Sarcolemma Water Permeability on Muscle DTI Measures Following Exercise. Biomedical Engineering Society Annual Meeting, (October 2016), Minneapolis, Minnesota (platform presentation)
-
+**Naughton NM** and Georgiadis JG. Effect of Sarcolemma Water Permeability on Muscle DTI Measures Following Exercise. Biomedical Engineering Society Annual Meeting, (October 2016), Minneapolis, Minnesota
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5553-4718" href="https://orcid.org/0000-0002-5553-4718" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-5553-4718</a></div>
