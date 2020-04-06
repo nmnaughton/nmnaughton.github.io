@@ -24,9 +24,9 @@ hide_description: true
 </figure>
 
 
-I am currently a postdoc in [Mattia Gazzola's lab](http:/mattia-lab.com)  at the University of Illinois at Urbana-Champaign. Before this I completed by my PhD in [Mechanical Engineering](https://mechse.illinois.edu/){: target="_blank"} at the University of Illinois. I am from the beautiful St. Paul, MN where I also completed my undergrad at the [University of Saint Thomas](https://stthomas.edu){: target="_blank"}.
+I am currently a postdoc in [Mattia Gazzola's lab](http:/mattia-lab.com){: target="_blank"}  at the University of Illinois at Urbana-Champaign. Before this I completed by my PhD in [Mechanical Engineering](https://mechse.illinois.edu/){: target="_blank"} at the University of Illinois. I am from the beautiful St. Paul, MN where I also completed my undergrad at the [University of Saint Thomas](https://stthomas.edu){: target="_blank"}.
 
-My postdoc research is on using Cosserat rod theory to model slender, 1-dimensional structures. In particular, I am working on the [CyberOctopus](https://cyberoctopus.csl.illinois.edu/) project where we are using these Cosserat rods to model the mechanics of octopus arms. The Gazzola lab has developed a numerical solver [Elastica](https://cosseratrods.org) which is used to perform this simulations. 
+My postdoc research is on using Cosserat rod theory to model slender, 1-dimensional structures. In particular, I am working on the [CyberOctopus](https://cyberoctopus.csl.illinois.edu/){: target="_blank"} project where we are using these Cosserat rods to model the mechanics of octopus arms. The Gazzola lab has developed a numerical solver [Elastica](https://cosseratrods.org){: target="_blank"} which is used to perform this simulations. 
 
 My previous research during by PhD was on computational modeling of skeletal muscle. I am worked on predicting microstructural parameters of muscle using diffusion-weighted magnetic resonance imaging (dMRI) and on micro-mechanical modeling of how muscle microstructure affects mechanical properties of muscle.
 
