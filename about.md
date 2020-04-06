@@ -9,7 +9,7 @@ title: About Me
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
 description: > 
-  Test this out
+  About Me
 
 # You can show the description on the page by deleting this line:
 hide_description: true
@@ -24,11 +24,13 @@ hide_description: true
 </figure>
 
 
-I am currently finishing my PhD in [Mechanical Engineering](https://mechse.illinois.edu/){: target="_blank"} at the University of Illinois and expect to graduate Fall 2019. I am from the beautiful St. Paul, MN where I also completed my undergrad at the [University of Saint Thomas](https://stthomas.edu){: target="_blank"}.
+I am currently a postdoc in [Mattia Gazzola's lab](http:/mattia-lab.com)  at the University of Illinois at Urbana-Champaign. Before this I completed by my PhD in [Mechanical Engineering](https://mechse.illinois.edu/){: target="_blank"} at the University of Illinois. I am from the beautiful St. Paul, MN where I also completed my undergrad at the [University of Saint Thomas](https://stthomas.edu){: target="_blank"}.
 
-My current research focus is on computational modeling of skeletal muscle. In particular, I am working on predicting microstructural parameters of muscle using diffusion-weighted magnetic resonance imaging (dMRI) and on micro-mechanical modeling of how muscle microstructure affects mechancial properties of muscle. More broadly, I am interested in how computational models can be leveraged to solve inverse problems in a variety of situations.
+My postdoc research is on using Cosserat rod theory to model slender, 1-dimensional structures. In particular, I am working on the [CyberOctopus](https://cyberoctopus.csl.illinois.edu/) project where we are using these Cosserat rods to model the mechanics of octopus arms. The Gazzola lab has developed a numerical solver [Elastica](https://cosseratrods.org) which is used to perform this simulations. 
 
-Interested in these topics? Shoot me and email and let's chat. 
+My previous research during by PhD was on computational modeling of skeletal muscle. I am worked on predicting microstructural parameters of muscle using diffusion-weighted magnetic resonance imaging (dMRI) and on micro-mechanical modeling of how muscle microstructure affects mechanical properties of muscle.
+
+Broadly, I am interested in how computational models can be leveraged to solve inverse problems in a variety of situations. Interested in these topics? Shoot me and email and let's chat. 
 
 email: [nnaught2@illinois.edu](mailto:nnaught2@illinois.edu)
 
