@@ -28,7 +28,7 @@ I am currently a postdoc in [Mattia Gazzola's lab](http:/mattia-lab.com){: targe
 
 My postdoc research is on using Cosserat rod theory to model slender, 1-dimensional structures. In particular, I am working on the [CyberOctopus](https://cyberoctopus.csl.illinois.edu/){: target="_blank"} project where we are using these Cosserat rods to model the mechanics of octopus arms. The Gazzola lab has developed a numerical solver [Elastica](https://cosseratrods.org){: target="_blank"} which is used to perform this simulations. 
 
-My previous research during by PhD was on computational modeling of skeletal muscle. I am worked on predicting microstructural parameters of muscle using diffusion-weighted magnetic resonance imaging (dMRI) and on micro-mechanical modeling of how muscle microstructure affects mechanical properties of muscle.
+My PhD research was on computational modeling of skeletal muscle. I worked on predicting microstructural parameters of muscle using diffusion-weighted magnetic resonance imaging (dMRI) and on micro-mechanical modeling of how muscle microstructure affects mechanical properties of muscle.
 
 Broadly, I am interested in how computational models can be leveraged to solve inverse problems in a variety of situations. Interested in these topics? Shoot me and email and let's chat. 
 
