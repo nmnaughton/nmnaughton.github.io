@@ -6,14 +6,9 @@ cover_image: assets/img/final_frame_hist.png
 ---
 Welcome to my personal website. Please reach out and contact me if you find anything of interest. I look forward to talking to you. 
 
-Sitemap:
-
 [About Me](/about/)
 
-[Research Overview](research/)
-* [Forward Problem](/pages/forward-problem/)
-* [Inverse Problem](/pages/inverse-problem/)
-* [Mechanical Problem](/pages/mechanical-problem/)
+[Research](research/)
 
 [Publications](/publications/)
 
