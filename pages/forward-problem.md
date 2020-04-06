@@ -18,7 +18,7 @@ Solving the Bloch-Torrey equation for different microstructural geometries allow
 <figcaption>chicken skeletal muscle and <br/> simplified REV model</figcaption>
 </figure>
 
-This averaging smears the signal, making it difficult to directly connect the dMRI measurement with the underlying microstructure. However, because of muscle's semi-periodic structure, it is still possible to infer microstructural parameters from the dMRI signal. Muscle consists of many long fibers that are tightly bundled together. By assuming that these fibers all have the same cross-sectional shape and are packed together in the same way, we can approximate the muscle strucutre using a simplified model that we call a Representative Elementary Volume (REV). This REV model allows us to parameterize the muscle and understand how changes in these microstructural parameters (for example, the cell diameter) lead to changes in the dMRI signal.
+This averaging smears the signal, making it difficult to directly connect the dMRI measurement with the underlying microstructure. However, because of muscle's semi-periodic structure, it is still possible to infer microstructural parameters from the dMRI signal. Muscle consists of many long fibers that are tightly bundled together. By assuming that these fibers all have the same cross-sectional shape and are packed together in the same way, we can approximate the muscle structure using a simplified model that we call a Representative Elementary Volume (REV). This REV model allows us to parameterize the muscle and understand how changes in these microstructural parameters (for example, the cell diameter) lead to changes in the dMRI signal.
 
 
 <figure style="float: right; padding-top:150px;  padding-left:10px;">
@@ -32,7 +32,7 @@ Solving the Bloch-Torrey equation can be done analytically for simple shapes, ho
 
 ### Validating existing models
 
-With this LBM model, we have an accurate solution of the Bloch-Torrey equation that accuratly represents the dMRI physics. This allows us to treat it as an in-silico phantom (a computer-based testing device) that can be used to validate new and existing models of dMRI [\[2\]](#ref2). The advantage of using an in-silico phantom is exact knowledge of the underlying microstructure, something that is very difficult to measure in real biological tissue. This allows rigorous validation that a model is able to capture the underlying structural behavior and physics of dMRI before applying them to the more complex case of real biological tissue, where noise and difficulty in verifying the underlying tissue complicate the validation process.
+With this LBM model, we have an accurate solution of the Bloch-Torrey equation that accurately represents the dMRI physics. This allows us to treat it as an in-silico phantom (a computer-based testing device) that can be used to validate new and existing models of dMRI [\[2\]](#ref2). The advantage of using an in-silico phantom is exact knowledge of the underlying microstructure, something that is very difficult to measure in real biological tissue. This allows rigorous validation that a model is able to capture the underlying structural behavior and physics of dMRI before applying them to the more complex case of real biological tissue, where noise and difficulty in verifying the underlying tissue complicate the validation process.
 
 ### Sensitivity analysis
 
