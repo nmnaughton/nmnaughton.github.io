@@ -5,7 +5,7 @@ title: Publications
 ---
 
 ## Journal Articles
-Sullivan DJ, Wu X, Gallo NR, **Naughton NM**, Georgiadis JG, and Pelegri AA. *Sensitivity analysis of effective transverse viscoelastic and diffusional properties of tissue with myelinated axons*. Physics in Medicine and Biology, 2020 (In Press).
+Sullivan DJ, Wu X, Gallo NR, **Naughton NM**, Georgiadis JG, and Pelegri AA. *Sensitivity analysis of effective transverse viscoelastic and diffusional properties of tissue with myelinated axons*. Physics in Medicine and Biology, 2020 (In Press). doi: [10.1088/1361-6560/aba0cc](https://iopscience.iop.org/article/10.1088/1361-6560/aba0cc)
 
 **Naughton, NM** and Georgiadis JG. *Global sensitivity analysis of skeletal muscle dMRI metrics: Effects of microstructural and pulse parameters*. Magnetic Resonance in Medicine, 2020; 83:1458–1470. doi: [10.1002/mrm.28014](https://onlinelibrary.wiley.com/doi/10.1002/mrm.28014){: target="_blank" onClick=”_gaq.push([‘_trackEvent’, ‘downloads’, ‘click’, ‘whitepaper’, ‘0’]);”} 
 
