@@ -5,6 +5,8 @@ title: Publications
 ---
 
 ## Journal Articles
+**Naughton NM**, Tennyson CG, and Georgiadis JG. *A lattice Boltzmann method for simulation of diffusion magnetic resonance imaging physics in multiphase tissue models*. Physical Review E, 2020 (In Press). [arXiv:1907.00908](https://arxiv.org/abs/1907.00908){: target="_blank"}
+
 Sullivan DJ, Wu X, Gallo NR, **Naughton NM**, Georgiadis JG, and Pelegri AA. *Sensitivity analysis of effective transverse viscoelastic and diffusional properties of tissue with myelinated axons*. Physics in Medicine and Biology, 2020 (In Press). doi: [10.1088/1361-6560/aba0cc](https://iopscience.iop.org/article/10.1088/1361-6560/aba0cc)
 
 **Naughton, NM** and Georgiadis JG. *Global sensitivity analysis of skeletal muscle dMRI metrics: Effects of microstructural and pulse parameters*. Magnetic Resonance in Medicine, 2020; 83:1458–1470. doi: [10.1002/mrm.28014](https://onlinelibrary.wiley.com/doi/10.1002/mrm.28014){: target="_blank" onClick=”_gaq.push([‘_trackEvent’, ‘downloads’, ‘click’, ‘whitepaper’, ‘0’]);”} 
@@ -12,9 +14,6 @@ Sullivan DJ, Wu X, Gallo NR, **Naughton NM**, Georgiadis JG, and Pelegri AA. *Se
 **Naughton NM** and Georgiadis JG. *Comparison of two-compartment exchange and continuum models of dMRI in skeletal muscle*. Physics in Medicine and Biology, 2019; 64(15):155004. doi: [10.1088/1361-6560/ab2aa6](https://doi.org/10.1088/1361-6560/ab2aa6){: target="_blank" onClick=”_gaq.push([‘_trackEvent’, ‘downloads’, ‘click’, ‘whitepaper’, ‘0’]);”}
 
 **Naughton NM**, Plourde BD, Stark JR, Hodis S, Abraham JP. *Impacts of waveforms on the fluid flow, wall shear stress, and flow distribution in cerebral aneurysms and the development of a universal reduced pressure*. Journal of Biomedical Science and Engineering. 2014; 7(01):7. doi: [10.4236/jbise.2014.71002](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=41615){: target="_blank"}. 
-
-### Preprints
-**Naughton NM**, Tennyson CG, and Georgiadis JG. *A lattice Boltzmann method for simulation of diffusion magnetic resonance imaging physics in multiphase tissue models*. arXiv preprint: [arXiv:1907.00908](https://arxiv.org/abs/1907.00908){: target="_blank"}
 
 ## Conference Presentations & Posters
 
