@@ -3,11 +3,6 @@ layout: page
 title: Publications
 
 ---
-<h2 style="margin-top:0pt"> Preprints </h2>
-<p>
-<strong>Naughton NM</strong>, Sun J, Tekinalp A, Chowdhary G, and Gazzola M, <a style="color: #6558D3">Elastica: A compliant mechanics environment for soft robotic control</a>, <strong>arXiv:2009.0842</strong>.
-</p>
-
 ## Preprints
 **Naughton NM**, Sun J, Tekinalp A, Chowdhary G, and Gazzola M, *Elastica: A compliant mechanics environment for soft robotic control*. arXiv preprint:
 [arXiv:2009.0842](https://arxiv.org/abs/2009.0842){: target="_blank"}
