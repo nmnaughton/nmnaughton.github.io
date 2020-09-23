@@ -19,7 +19,7 @@ Sullivan DJ, Wu X, Gallo NR, **Naughton NM**, Georgiadis JG, and Pelegri AA. *Se
 **Naughton NM**, and Georgiadis JG. *Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration*. Proceedings of the Practice and Experience in Advanced Research Computing on Rise of the Machines (learning) (PEARC '19). p7, (July 2019), Chicago, IL, USA. doi: [10.1145/3332186.3333054](https://doi.org/10.1145/3332186.3333054){: target="_blank"}
 
 ## Preprints
-**Naughton, NM**, Sun J, Tekinalp A, Chowdhary G, and Gazzola M, *Elastica: A compliant mechanics environment for soft robotic control*. arXiv preprint:
+**Naughton NM**, Sun J, Tekinalp A, Chowdhary G, and Gazzola M, *Elastica: A compliant mechanics environment for soft robotic control*. arXiv preprint:
 [arXiv:2009.0842](https://arxiv.org/abs/2009.0842){: target="_blank"}
 
 ## Conference Abstracts
