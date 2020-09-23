@@ -4,6 +4,10 @@ title: Publications
 
 ---
 
+## Preprints
+**Naughton NM**, Sun J, Tekinalp A, Chowdhary G, and Gazzola M, *Elastica: A compliant mechanics environment for soft robotic control*. arXiv preprint:
+[arXiv:2009.0842](https://arxiv.org/abs/2009.0842){: target="_blank"}
+
 ## Journal Articles
 **Naughton NM**, Tennyson CG, and Georgiadis JG. *A lattice Boltzmann method for simulation of diffusion magnetic resonance imaging physics in multiphase tissue models*. Physical Review E, 2020 (In Press). [arXiv:1907.00908](https://arxiv.org/abs/1907.00908){: target="_blank"}
 
@@ -17,10 +21,6 @@ Sullivan DJ, Wu X, Gallo NR, **Naughton NM**, Georgiadis JG, and Pelegri AA. *Se
 
 ## Conference Articles
 **Naughton NM**, and Georgiadis JG. *Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration*. Proceedings of the Practice and Experience in Advanced Research Computing on Rise of the Machines (learning) (PEARC '19). p7, (July 2019), Chicago, IL, USA. doi: [10.1145/3332186.3333054](https://doi.org/10.1145/3332186.3333054){: target="_blank"}
-
-## Preprints
-**Naughton NM**, Sun J, Tekinalp A, Chowdhary G, and Gazzola M, *Elastica: A compliant mechanics environment for soft robotic control*. arXiv preprint:
-[arXiv:2009.0842](https://arxiv.org/abs/2009.0842){: target="_blank"}
 
 ## Conference Abstracts
 
