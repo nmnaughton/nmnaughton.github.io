@@ -15,18 +15,19 @@ Sullivan DJ, Wu X, Gallo NR, **Naughton NM**, Georgiadis JG, and Pelegri AA. *Se
 
 **Naughton NM**, Plourde BD, Stark JR, Hodis S, and Abraham JP. *Impacts of waveforms on the fluid flow, wall shear stress, and flow distribution in cerebral aneurysms and the development of a universal reduced pressure*. Journal of Biomedical Science and Engineering. 2014; 7(01):7. doi: [10.4236/jbise.2014.71002](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=41615){: target="_blank"}. 
 
+## Conference Articles
+**Naughton NM**, and Georgiadis JG. *Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration*. Proceedings of the Practice and Experience in Advanced Research Computing on Rise of the Machines (learning) (PEARC '19). p7, (July 2019), Chicago, IL, USA. doi: [10.1145/3332186.3333054](https://doi.org/10.1145/3332186.3333054){: target="_blank"}
+
 ## Preprints
 **Naughton, NM**, Sun J, Tekinalp A, Chowdhary G, and Gazzola M, *Elastica: A compliant mechanics environment for soft robotic control*. arXiv preprint:
 [arXiv:2009.0842](https://arxiv.org/abs/2009.0842){: target="_blank"}
 
-## Conference Presentations & Posters
+## Conference Abstracts
 
 ### 2020
 Gallo NR, Cahoon SM, Anderson AT, **Naughton NM**, Pelegri AA, and Georgiadis JG. Variation of In Vivo Anisotropic MRE Metrics in Corpus Callosum: Effect of Aging. ISMRM Annual Meeting (April 2020), Sydney, Australia 
 
 ### 2019
-**Naughton NM**, and Georgiadis JG. *Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration*. Proceedings of the Practice and Experience in Advanced Research Computing on Rise of the Machines (learning) (PEARC '19). p7, (July 2019), Chicago, IL, USA. doi: [10.1145/3332186.3333054](https://doi.org/10.1145/3332186.3333054){: target="_blank"}
-
 **Naughton NM**, Gallo NR, Anderson AT, and Georgiadis JG. Comparison of dMRI Models for Skeletal Muscle Microstructure Estimations with Numerical Simulations and Myocardial Porcine Phantom. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster) [abstract](/pages/pubs/2019_ISMRM_dMRI-model-comparison.pdf?pdf=ISMRM_model-compare){: target="_blank"}
 
 **Naughton NM**, Jain A, and Georgiadis JG. Polynomial Meta-Model of Bloch-Torrey Equation for Track-based Regularization of Microstructural Inversion. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster) [abstract](/pages/pubs/2019_ISMRM_polynomial-meta-model.pdf?pdf=ISMRM_meta-model){: target="_blank"}
