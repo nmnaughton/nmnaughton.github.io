@@ -4,7 +4,10 @@ title: Publications
 
 ---
 ## Preprints
-**Naughton NM**, Sun J, Tekinalp A, Chowdhary G, and Gazzola M, *Elastica: A compliant mechanics environment for soft robotic control*. arXiv preprint:
+Chang HS, Halder U, Gribkova E, Tekinalp A, **Naughton NM**, Gazzola M, and Mehta PG. *Controlling a CyberOctopus Soft Arm with Muscle-like Actuation*. arXiv preprint:
+[arXiv:2010.03368](https://arxiv.org/abs/2010.03368){: target="_blank"}
+
+**Naughton NM**, Sun J, Tekinalp A, Chowdhary G, and Gazzola M. *Elastica: A compliant mechanics environment for soft robotic control*. arXiv preprint:
 [arXiv:2009.0842](https://arxiv.org/abs/2009.0842){: target="_blank"}
 
 ## Journal Articles
