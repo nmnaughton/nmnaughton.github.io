@@ -27,20 +27,22 @@ Sullivan DJ, Wu X, Gallo NR, **Naughton NM**, Georgiadis JG, and Pelegri AA. *Se
 ## Conference Abstracts
 
 ### 2020
-Gallo NR, Cahoon SM, Anderson AT, **Naughton NM**, Pelegri AA, and Georgiadis JG. Variation of In Vivo Anisotropic MRE Metrics in Corpus Callosum: Effect of Aging. ISMRM Annual Meeting (April 2020), Sydney, Australia 
+Cahoon SM, Gallo NR, **Naughton NM**, Anderson AT, and Georgiadis JG. *Regional Intrinsic Properties of Axons and Glia from in vivo MRElastography of Human Corpus Callosum* Biomedical Engineering Society Annual Meeting (October 2020), Virtual Meeting ***Magna Cum Laude***
+
+Gallo NR, Cahoon SM, Anderson AT, **Naughton NM**, Pelegri AA, and Georgiadis JG. Variation of In Vivo Anisotropic MRE Metrics in Corpus Callosum: Effect of Aging. ISMRM Annual Meeting (April 2020), Virtual Meeting
 
 ### 2019
-**Naughton NM**, Gallo NR, Anderson AT, and Georgiadis JG. Comparison of dMRI Models for Skeletal Muscle Microstructure Estimations with Numerical Simulations and Myocardial Porcine Phantom. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster) [abstract](/pages/pubs/2019_ISMRM_dMRI-model-comparison.pdf?pdf=ISMRM_model-compare){: target="_blank"}
+**Naughton NM**, Gallo NR, Anderson AT, and Georgiadis JG. Comparison of dMRI Models for Skeletal Muscle Microstructure Estimations with Numerical Simulations and Myocardial Porcine Phantom. ISMRM Annual Meeting (May 2019), Montreal, Canada [abstract](/pages/pubs/2019_ISMRM_dMRI-model-comparison.pdf?pdf=ISMRM_model-compare){: target="_blank"}
 
-**Naughton NM**, Jain A, and Georgiadis JG. Polynomial Meta-Model of Bloch-Torrey Equation for Track-based Regularization of Microstructural Inversion. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster) [abstract](/pages/pubs/2019_ISMRM_polynomial-meta-model.pdf?pdf=ISMRM_meta-model){: target="_blank"}
+**Naughton NM**, Jain A, and Georgiadis JG. Polynomial Meta-Model of Bloch-Torrey Equation for Track-based Regularization of Microstructural Inversion. ISMRM Annual Meeting (May 2019), Montreal, Canada [abstract](/pages/pubs/2019_ISMRM_polynomial-meta-model.pdf?pdf=ISMRM_meta-model){: target="_blank"}
 
-**Naughton NM**, Wang A, and Georgiadis JG. Fascicle Ellipticity as an Explanation of Transverse Anisotropy in Diffusion MRI Measurements of Skeletal Muscle. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster) [abstract](/pages/pubs/2019_ISMRM_fascicle-ellipticity.pdf?pdf=ISMRM_ellipticity){: target="_blank"}
+**Naughton NM**, Wang A, and Georgiadis JG. Fascicle Ellipticity as an Explanation of Transverse Anisotropy in Diffusion MRI Measurements of Skeletal Muscle. ISMRM Annual Meeting (May 2019), Montreal, Canada [abstract](/pages/pubs/2019_ISMRM_fascicle-ellipticity.pdf?pdf=ISMRM_ellipticity){: target="_blank"}
 
-**Naughton NM**, Gallo NR, Anderson AT, and Georgiadis JG. Microstructural Parameter Estimation of Skeletal Muscle using Random Forest Model of dMRI. ISMRM Annual Meeting (May 2019), Montreal, Canada (poster) [abstract](/pages/pubs/2019_ISMRM_random-forest.pdf?pdf=ISMRM_RFmodel){: target="_blank"}
+**Naughton NM**, Gallo NR, Anderson AT, and Georgiadis JG. Microstructural Parameter Estimation of Skeletal Muscle using Random Forest Model of dMRI. ISMRM Annual Meeting (May 2019), Montreal, Canada [abstract](/pages/pubs/2019_ISMRM_random-forest.pdf?pdf=ISMRM_RFmodel){: target="_blank"}
 
 ### 2018
 
-**Naughton NM**, Gallo NR, Vaicik M, Anderson AT, Sutton BP, and Georgiadis JG. “Estimation of Extracellular Matrix Diffusion Properties in Decellularized Porcine Myocardium from DTI” ISMRM Annual Meeting (June 2018), Paris, France (poster) [abstract](/pages/pubs/2018_ISMRM.pdf?pdf=ISMRM2018){: target="_blank"}
+**Naughton NM**, Gallo NR, Vaicik M, Anderson AT, Sutton BP, and Georgiadis JG. “Estimation of Extracellular Matrix Diffusion Properties in Decellularized Porcine Myocardium from DTI” ISMRM Annual Meeting (June 2018), Paris, France [abstract](/pages/pubs/2018_ISMRM.pdf?pdf=ISMRM2018){: target="_blank"}
 
 ### 2017 
 
@@ -48,6 +50,6 @@ Gallo NR, Cahoon SM, Anderson AT, **Naughton NM**, Pelegri AA, and Georgiadis JG
 
 ### 2016 
 
-**Naughton NM** and Georgiadis JG. Effect of Sarcolemma Water Permeability on Muscle DTI Measures Following Exercise. Biomedical Engineering Society Annual Meeting, (October 2016), Minneapolis, Minnesota
+**Naughton NM** and Georgiadis JG. Effect of Sarcolemma Water Permeability on Muscle DTI Measures Following Exercise. Biomedical Engineering Society Annual Meeting (October 2016), Minneapolis, Minnesota
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5553-4718" href="https://orcid.org/0000-0002-5553-4718" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-5553-4718</a></div>
