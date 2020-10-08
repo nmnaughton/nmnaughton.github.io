@@ -8,14 +8,14 @@ Chang HS, Halder U, Gribkova E, Tekinalp A, **Naughton NM**, Gazzola M, and Meht
 [arXiv:2010.03368](https://arxiv.org/abs/2010.03368){: target="_blank"}
 
 **Naughton NM**, Sun J, Tekinalp A, Chowdhary G, and Gazzola M. *Elastica: A compliant mechanics environment for soft robotic control*. arXiv preprint:
-[arXiv:2009.0842](https://arxiv.org/abs/2009.0842){: target="_blank"}
+[arXiv:2009.0842](https://arxiv.org/abs/2009.0842){: target="_blank"} 
 
 ## Journal Articles
-**Naughton NM**, Tennyson CG, and Georgiadis JG. *A lattice Boltzmann method for simulation of diffusion magnetic resonance imaging physics in multiphase tissue models*. Physical Review E, 2020 (In Press). [arXiv:1907.00908](https://arxiv.org/abs/1907.00908){: target="_blank"}
+**Naughton NM**, Tennyson CG, and Georgiadis JG. *A lattice Boltzmann method for simulation of diffusion magnetic resonance imaging physics in multiphase tissue models*. Physical Review E, 2020; 102(4):043305. doi: [10.1103/PhysRevE.102.043305](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.043305){: target="_blank"}
 
 Sullivan DJ, Wu X, Gallo NR, **Naughton NM**, Georgiadis JG, and Pelegri AA. *Sensitivity analysis of effective transverse viscoelastic and diffusional properties of tissue with myelinated axons*. Physics in Medicine and Biology, 2020 (In Press). doi: [10.1088/1361-6560/aba0cc](https://iopscience.iop.org/article/10.1088/1361-6560/aba0cc)
 
-**Naughton, NM** and Georgiadis JG. *Global sensitivity analysis of skeletal muscle dMRI metrics: Effects of microstructural and pulse parameters*. Magnetic Resonance in Medicine, 2020; 83:1458–1470. doi: [10.1002/mrm.28014](https://onlinelibrary.wiley.com/doi/10.1002/mrm.28014){: target="_blank" onClick=”_gaq.push([‘_trackEvent’, ‘downloads’, ‘click’, ‘whitepaper’, ‘0’]);”} 
+**Naughton, NM** and Georgiadis JG. *Global sensitivity analysis of skeletal muscle dMRI metrics: Effects of microstructural and pulse parameters*. Magnetic Resonance in Medicine; 2020; 83:1458–1470. doi: [10.1002/mrm.28014](https://onlinelibrary.wiley.com/doi/10.1002/mrm.28014){: target="_blank" onClick=”_gaq.push([‘_trackEvent’, ‘downloads’, ‘click’, ‘whitepaper’, ‘0’]);”} 
 
 **Naughton NM** and Georgiadis JG. *Comparison of two-compartment exchange and continuum models of dMRI in skeletal muscle*. Physics in Medicine and Biology, 2019; 64(15):155004. doi: [10.1088/1361-6560/ab2aa6](https://doi.org/10.1088/1361-6560/ab2aa6){: target="_blank" onClick=”_gaq.push([‘_trackEvent’, ‘downloads’, ‘click’, ‘whitepaper’, ‘0’]);”}
 
