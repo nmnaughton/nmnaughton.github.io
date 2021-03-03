@@ -8,7 +8,7 @@ Chang HS, Halder U, Gribkova E, Tekinalp A, **Naughton NM**, Gazzola M, and Meht
 
 
 ## Journal Articles
-**Naughton NM**, Sun J, Tekinalp A, Chowdhary G, and Gazzola M. *Elastica: A compliant mechanics environment for soft robotic control*. IEEE Robotics and Automation Letters, 2021 (to appear). [arXiv:2009.0842](https://arxiv.org/abs/2009.0842){: target="_blank"} 
+**Naughton NM**, Sun J, Tekinalp A, Chowdhary G, and Gazzola M. *Elastica: A compliant mechanics environment for soft robotic control*. IEEE Robotics and Automation Letters, 2021 (to appear), doi: [10.1109/LRA.2021.3063698](https://ieeexplore.ieee.org/document/9369003)
 
 Sullivan DJ, Wu X, Gallo NR, **Naughton NM**, Georgiadis JG, and Pelegri AA. *Sensitivity analysis of effective transverse viscoelastic and diffusional properties of tissue with myelinated axons*. Physics in Medicine and Biology, 2021; 66(3):035027. doi: [10.1088/1361-6560/aba0cc](https://iopscience.iop.org/article/10.1088/1361-6560/aba0cc)
 
