@@ -4,11 +4,14 @@ title: Publications
 
 ---
 ## Preprints
-Chang HS, Halder U, Gribkova E, Tekinalp A, **Naughton NM**, Gazzola M, and Mehta PG. *Controlling a CyberOctopus Soft Arm with Muscle-like Actuation*. arXiv preprint: [arXiv:2010.03368](https://arxiv.org/abs/2010.03368){: target="_blank"}
+
+Zhang, XZ, **Naughton NM**, Parthasarathy T, and Gazzola M. *Friction modulation in limbless, three-dimensional gaits and heterogeneous terrains*. arXiv preprint [arXiv:2106.08454](https://arxiv.org/abs/2106.08454){: target="_blank"}
+
+Chang HS, Halder U, Gribkova E, Tekinalp A, **Naughton NM**, Gazzola M, and Mehta PG. *Controlling a CyberOctopus Soft Arm with Muscle-like Actuation*. (Accepted, CDC 2021) arXiv preprint: [arXiv:2010.03368](https://arxiv.org/abs/2010.03368){: target="_blank"}
 
 
 ## Journal Articles
-**Naughton NM**, Sun J, Tekinalp A, Chowdhary G, and Gazzola M. *Elastica: A compliant mechanics environment for soft robotic control*. IEEE Robotics and Automation Letters, 2021 (to appear), doi: [10.1109/LRA.2021.3063698](https://ieeexplore.ieee.org/document/9369003)
+**Naughton NM**, Sun J, Tekinalp A, Parthasarathy T, Chowdhary G, and Gazzola M. *Elastica: A compliant mechanics environment for soft robotic control*. IEEE Robotics and Automation Letters, 2021 (to appear), doi: [10.1109/LRA.2021.3063698](https://ieeexplore.ieee.org/document/9369003)
 
 Sullivan DJ, Wu X, Gallo NR, **Naughton NM**, Georgiadis JG, and Pelegri AA. *Sensitivity analysis of effective transverse viscoelastic and diffusional properties of tissue with myelinated axons*. Physics in Medicine and Biology, 2021; 66(3):035027. doi: [10.1088/1361-6560/aba0cc](https://iopscience.iop.org/article/10.1088/1361-6560/aba0cc)
 
