@@ -5,7 +5,6 @@ title: Publications
 ---
 
 
-## Publications
 ### 2021
 Chang HS, Halder U, Gribkova E, Tekinalp A, **Naughton NM**, Gazzola M, and Mehta PG. *Controlling a CyberOctopus Soft Arm with Muscle-like Actuation*. (Accepted, CDC 2021) arXiv preprint: [arXiv:2010.03368](https://arxiv.org/abs/2010.03368){: target="_blank"}
 
