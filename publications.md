@@ -11,11 +11,11 @@ Chang HS, Halder U, Shih CH, **Naughton NM**, Gazzola M, Mehta P. *Energy Shapin
 
 ### 2021
 
-Chang HS, Halder U, Gribkova E, Tekinalp A, **Naughton NM**, Gazzola M, and Mehta PG. *Controlling a CyberOctopus Soft Arm with Muscle-like Actuation*. 60th IEEE Conference on Decision and Control (CDC), 2021; p.1383-1390. doi: [10.1109/CDC45484.2021.9683318](https://doi.org/10.1038/s41467-021-26276-x){: target="_blank"}
+**Naughton NM**, Sun J, Tekinalp A, Parthasarathy T, Chowdhary G, and Gazzola M. *Elastica: A compliant mechanics environment for soft robotic control*. IEEE Robotics and Automation Letters, 2021; 6(2):3389-3396. doi: [10.1109/LRA.2021.3063698](https://ieeexplore.ieee.org/document/9369003)
 
 Zhang, XZ, **Naughton NM**, Parthasarathy T, and Gazzola M. *Friction modulation in limbless, three-dimensional gaits and heterogeneous terrains*. Nature Communications, 2021; 12:6076. doi: [10.1038/s41467-021-26276-x](https://doi.org/10.1038/s41467-021-26276-x)
 
-**Naughton NM**, Sun J, Tekinalp A, Parthasarathy T, Chowdhary G, and Gazzola M. *Elastica: A compliant mechanics environment for soft robotic control*. IEEE Robotics and Automation Letters, 2021; 6(2):3389-3396. doi: [10.1109/LRA.2021.3063698](https://ieeexplore.ieee.org/document/9369003)
+Chang HS, Halder U, Gribkova E, Tekinalp A, **Naughton NM**, Gazzola M, and Mehta PG. *Controlling a CyberOctopus Soft Arm with Muscle-like Actuation*. 60th IEEE Conference on Decision and Control (CDC), 2021; p.1383-1390. doi: [10.1109/CDC45484.2021.9683318](https://doi.org/10.1038/s41467-021-26276-x){: target="_blank"}
 
 Sullivan DJ, Wu X, Gallo NR, **Naughton NM**, Georgiadis JG, and Pelegri AA. *Sensitivity analysis of effective transverse viscoelastic and diffusional properties of tissue with myelinated axons*. Physics in Medicine and Biology, 2021; 66(3):035027. doi: [10.1088/1361-6560/aba0cc](https://iopscience.iop.org/article/10.1088/1361-6560/aba0cc)
 
