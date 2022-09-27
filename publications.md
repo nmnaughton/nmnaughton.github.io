@@ -4,9 +4,14 @@ title: Publications
 
 ---
 
+### Preprints
+
+Chang HS, Halder U, Shih CH, **Naughton NM**, Gazzola M, Mehta P. *Energy Shaping Control of a Muscular Octo-pus Arm Moving in Three Dimensions*. arXiv: [2209.04089](https://arxiv.org/abs/2209.04089){: target="_blank"}
+
 
 ### 2021
-Chang HS, Halder U, Gribkova E, Tekinalp A, **Naughton NM**, Gazzola M, and Mehta PG. *Controlling a CyberOctopus Soft Arm with Muscle-like Actuation*. (Accepted, CDC 2021) arXiv preprint: [arXiv:2010.03368](https://arxiv.org/abs/2010.03368){: target="_blank"}
+
+Chang HS, Halder U, Gribkova E, Tekinalp A, **Naughton NM**, Gazzola M, and Mehta PG. *Controlling a CyberOctopus Soft Arm with Muscle-like Actuation*. 60th IEEE Conference on Decision and Control (CDC), 2021; p.1383-1390. doi: [10.1109/CDC45484.2021.9683318](https://doi.org/10.1038/s41467-021-26276-x){: target="_blank"}
 
 Zhang, XZ, **Naughton NM**, Parthasarathy T, and Gazzola M. *Friction modulation in limbless, three-dimensional gaits and heterogeneous terrains*. Nature Communications, 2021; 12:6076. doi: [10.1038/s41467-021-26276-x](https://doi.org/10.1038/s41467-021-26276-x)
 
