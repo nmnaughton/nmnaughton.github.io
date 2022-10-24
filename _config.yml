@@ -66,8 +66,8 @@ menu:
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:            >
-    Cover Photo: dMRI signal for simplified model of muscle ([more info](https://noelmnaughton.com/pages/forward-problem/#solving-the-bloch-torrey-equation)) <br/>
-    © 2019. Noel Naughton -- All rights reserved.
+    Cover Photo: dMRI tractography of an octopus arm -- winner of 2022 Beckman Institute Research Image Contest ([more info](https://beckman.illinois.edu/about/news/article/2022/07/25/six-researchers-recognized-in-2022-beckman-institute-research-image-contest)) <br/>
+    © 2022. Noel Naughton -- All rights reserved.
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
 
@@ -80,7 +80,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/REV_final_frame.png
+accent_image:          /assets/img/beckman_image-1.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,

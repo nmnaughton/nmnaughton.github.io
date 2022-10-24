@@ -16,7 +16,7 @@ hide_description: true
 # <!--author-->
 ---
 
-## Hello! 
+## Hello!
 
 
 <figure style="float: right; padding-left:10px; padding-top:20px;">
@@ -24,13 +24,16 @@ hide_description: true
 </figure>
 
 
-I am currently a postdoc in [Mattia Gazzola's lab](http:/mattia-lab.com){: target="_blank"}  at the University of Illinois at Urbana-Champaign. Before this I completed my PhD in [Mechanical Engineering](https://mechse.illinois.edu/){: target="_blank"} at the University of Illinois. I am originally from St. Paul, MN where I also completed my undergrad at the [University of Saint Thomas](https://stthomas.edu){: target="_blank"}.
+I am currently a Beckman Institute Postdoctoral Fellow at the Beckman Institute of Advanced Science and Technology at the University of Illinois at Urbana-Champaign. I am collaborating with [Mattia Gazzola](http:/mattia-lab.com){: target="_blank"} and Brad Sutton and am investigating how biological embodiment guides behavioral selection and control. I am also applying these insights to develop learning-based, neuromorphic control that translate the naturally evolved capabilities of compliant, biological creature to soft robotic applications.
 
-My postdoc research is on using Cosserat rod theory to model slender, 1-dimensional structures. In particular, I am working on the [CyberOctopus](https://cyberoctopus.csl.illinois.edu/){: target="_blank"} project where we are using these Cosserat rods to model the mechanics of octopus arms. I am working on the development of the numerical solver [Elastica](https://cosseratrods.org){: target="_blank"}, which is used to perform this simulations. 
+Right now I am focused how this embodiment is manifested in the complex muscular architecture of an octopus arm. I am working with the [CyberOctopus](https://cyberoctopus.csl.illinois.edu/){: target="_blank"} project, which is developing a computational analog to living octopuses that can adapt, learn, and evolve to novel tasks, situations, and environments. We are developing models of octopus biomechanics and neuro-muscular control using [Elastica](https://cosseratrods.org){: target="_blank"}, which is a software package we are developing for numerical simulations of Cosserat rods. 
 
-My PhD research was on computational modeling of skeletal muscle. I worked on predicting microstructural parameters of muscle using diffusion-weighted magnetic resonance imaging (dMRI) and on micro-mechanical modeling of how muscle microstructure affects mechanical properties of muscle.
+I earned my Ph.D. in [Mechanical Engineering](https://mechse.illinois.edu/){: target="_blank"} at the University of Illinois at Urbana-Champaign, where I was an NSF Graduate Fellow under the advisement of Dr. John Georgiadis. There, I coupled high-performance computational modeling of diffusion-weighted MRI physics with machine learning-based, data-driven inverse models to non-invasively characterize the microstructural properties of skeletal muscle. 
 
-Broadly, I am interested in how computational models can be leveraged to solve inverse problems in a variety of situations. Interested in these topics? Shoot me and email and let's chat. 
+I am originally from St. Paul, MN where I completed my undergrad at the [University of Saint Thomas](https://stthomas.edu){: target="_blank"}.
+
+I am interested in how medical imaging (especially MRI) can be used to inform mechanical models of compliant fibrous structures. I believe such models will advance  musculoskeletal health and comparative biology applications while the insights gleaned will provide advanced design and control strategies for soft, compliant robots. 
+
 
 email: [nnaught2@illinois.edu](mailto:nnaught2@illinois.edu)
 
