@@ -19,19 +19,19 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Noel M. Naughton
+title:                 Noel Naughton
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Noel M. Naughton's Personal Website
+  Noel Naughton's Personal Website
 
 # A shorter description for the sidebar.
 tagline:               >
   Welcome!
 
 # A list of keywords for your blog
-keywords:              [noel, naughton, noel naughton, dMRI, diffusion MRI, MRI, mechanical engineering, elastica, cosserat rods]
+keywords:              [noel, naughton, noel naughton, dMRI, diffusion MRI, MRI, mechanical engineering, octopus, elastica, cosserat rods]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -66,7 +66,7 @@ menu:
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:            >
-    Cover Photo: dMRI tractography of an octopus arm -- winner of 2022 Beckman Institute Research Image Contest ([more info](https://beckman.illinois.edu/about/news/article/2022/07/25/six-researchers-recognized-in-2022-beckman-institute-research-image-contest)) <br/>
+    Cover Photo: dMRI tractography of an octopus arm -- winner of [2022 Beckman Institute Research Image Contest](https://beckman.illinois.edu/about/news/article/2022/07/25/six-researchers-recognized-in-2022-beckman-institute-research-image-contest)) <br/>
     © 2022. Noel Naughton -- All rights reserved.
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
