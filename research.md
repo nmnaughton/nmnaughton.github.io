@@ -15,17 +15,16 @@ hide_description: true
 ---
 
 
-## Cosserat Rods and Musculoskeletal Structures
+## Cosserat Rods and Musculo(skeletal) Structures
 <figure style="float: right; padding-left:20px; padding-top:5px;">
 <img src="/assets/video/Octo_dMRI.gif"  width="350">     
 <figcaption>dMRI tractography of an octopus arm </figcaption>
 </figure>
-My postdoc research is on using Cosserat rod theory to model slender, 1-dimensional structures. In particular, I am working on the [CyberOctopus](https://cyberoctopus.csl.illinois.edu/){: target="_blank"} project where we are using these Cosserat rods to model the mechanics of octopus arms. I am working on the development of the numerical solver [Elastica](https://cosseratrods.org){: target="_blank"}, which is used to perform this simulations. 
-
+My current research is on using Cosserat rods, which are slender, 1-dimensional rods that can stretch, bend, twist and shear. I am working on the [CyberOctopus](https://cyberoctopus.csl.illinois.edu/){: target="_blank"} project where we are using Cosserat rods to model the musculo (but not skeletal!) biomechanics of octopus arms. I am working on the development of the numerical solver [Elastica](https://cosseratrods.org){: target="_blank"}, which is used to perform this simulations. Long term, I believe this modeling approach holds great promise to improve our ability to understand how fibrous tissues are organized and how this organization gives rise to their functional capabilities.
 
 ## Skeletal Muscle dMRI
 <figure style="float: right; padding-left:20px; padding-top:5px;">
 <img src="/assets/video/REV-animation.gif"  width="350">     
 <figcaption>dMRI signal evolution in simplified muscle model </figcaption>
 </figure>
-My PhD research was on computational modeling of skeletal muscle. I worked on predicting microstructural parameters of muscle using diffusion-weighted magnetic resonance imaging (dMRI) and on micro-mechanical modeling of how muscle microstructure affects mechanical properties of muscle. [Learn More](/muscle_research/).
+I am also working on computational modeling of diffusion-weighted magnetic resonance imaging (dMRI) in fibrous tissue, with a particular focus on skeletal muscle. I have developed numerical models how dMRI is influenced by a tissues microstructural environment, characterized the sensitivity of this signal to microstructural changes, and developed data-driven inverse models that predict microstructural parameters from dMRI images. [Learn More](/muscle_research/).
