@@ -15,7 +15,7 @@ hide_description: true
 ---
 
 
-## Cosserat Rods and Musculo(skeletal) Structures
+## Mechanics of Musculo(skeletal) Structures
 <figure style="float: right; padding-left:20px; padding-top:5px;">
 <img src="/assets/video/Octo_dMRI.gif"  width="350">     
 <figcaption>dMRI tractography of an octopus arm </figcaption>
@@ -28,3 +28,12 @@ My current research is on using Cosserat rods, which are slender, 1-dimensional 
 <figcaption>dMRI signal evolution in simplified muscle model </figcaption>
 </figure>
 I am also working on computational modeling of diffusion-weighted magnetic resonance imaging (dMRI) in fibrous tissue, with a particular focus on skeletal muscle. I have developed numerical models how dMRI is influenced by a tissues microstructural environment, characterized the sensitivity of this signal to microstructural changes, and developed data-driven inverse models that predict microstructural parameters from dMRI images. [Learn More](/muscle_research/).
+
+
+## Bio-inspired and Neuromorphic Control of Soft Robots
+<figure style="float: right; padding-left:20px; padding-top:5px;">
+<img src="/assets/video/soft_arm.gif"  width="350">     
+<figcaption>RL control of a soft arm in the presence of obstacles </figcaption>
+</figure>
+I am exploring how learning-based, bio-inspired, and neuromorphic control techniques can be combined with the compliant physics of a soft robot to improve control. A soft robot's infinite degrees of freedom often frustrate traditional control techniques. Use of learning-based techniques such as reinforcement learning allow us to avoid having to explicitly model these compliant dynamics with the RL algorithm instead implicitly learning a control policy. Bio-inspired and neuromorphic control extends this by adopting strategies evolved by biological creates to solve this challenge. 
+
