@@ -24,7 +24,7 @@ hide_description: true
 </figure>
 
 
-I am currently a Beckman Institute Postdoctoral Fellow at the at the University of Illinois at Urbana-Champaign's Beckman Institute of Advanced Science and Technology where I am investigating how biological embodiment guides behavioral selection and control. I am also applying these insights to develop learning-based, neuromorphic control that translate the naturally evolved capabilities of compliant, biological creature to soft robotic applications.
+I am currently a Beckman Institute Postdoctoral Fellow at the University of Illinois at Urbana-Champaign's Beckman Institute of Advanced Science and Technology where I am investigating how biological embodiment guides behavioral selection and control. I am also applying these insights to develop learning-based, neuromorphic control that translate the naturally evolved capabilities of compliant, biological creature to soft robotic applications.
 
 Right now I am focused how this embodiment is manifested in the complex muscular architecture of an octopus arm. I am working with the [CyberOctopus](https://cyberoctopus.csl.illinois.edu/){: target="_blank"} project, which is developing a computational analog to living octopuses that can adapt, learn, and evolve to novel tasks, situations, and environments. We are developing models of octopus biomechanics and neuro-muscular control using [Elastica](https://cosseratrods.org){: target="_blank"}, which is a software package we are developing for numerical simulations of Cosserat rods. 
 
