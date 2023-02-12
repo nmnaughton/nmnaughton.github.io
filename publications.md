@@ -4,18 +4,14 @@ title: Publications
 
 ---
 
-### Preprints
+## Preprints
 
-Shih CH, **Naughton N**, Halder U, Chang HS, Kim SH, Gillette R, Mehta P, and Gazzola M. *Hierarchical control and learning of a foraging CyberOctopus*. ([preprint](/pages/pubs/Shih_Hierarchy)).
+Shih CH, **Naughton N**, Halder U, Chang HS, Kim SH, Gillette R, Mehta P, and Gazzola M. *[Hierarchical control and learning of a foraging CyberOctopus](/pages/pubs/Shih_Hierarchy.pdf)*. 
 
-
-### 2023
-
+## 2023
 Chang HS, Halder U, Shih CH, **Naughton N**, Gazzola M, and Mehta P. *Energy Shaping Control of a Muscular Octopus Arm Moving in Three Dimensions*. Proceedings of the Royal Society A, 2023; 479:20220593 doi: [10.1098/rspa.2022.0593](http://doi.org/10.1098/rspa.2022.0593)
 
-
-### 2021
-
+## 2021
 **Naughton N**, Sun J, Tekinalp A, Parthasarathy T, Chowdhary G, and Gazzola M. *Elastica: A compliant mechanics environment for soft robotic control*. IEEE Robotics and Automation Letters, 2021; 6(2):3389-3396. doi: [10.1109/LRA.2021.3063698](https://ieeexplore.ieee.org/document/9369003)
 
 Zhang, XZ, **Naughton N**, Parthasarathy T, and Gazzola M. *Friction modulation in limbless, three-dimensional gaits and heterogeneous terrains*. Nature Communications, 2021; 12:6076. doi: [10.1038/s41467-021-26276-x](https://doi.org/10.1038/s41467-021-26276-x)
@@ -24,17 +20,17 @@ Chang HS, Halder U, Gribkova E, Tekinalp A, **Naughton N**, Gazzola M, and Mehta
 
 Sullivan DJ, Wu X, Gallo NR, **Naughton N**, Georgiadis JG, and Pelegri AA. *Sensitivity analysis of effective transverse viscoelastic and diffusional properties of tissue with myelinated axons*. Physics in Medicine and Biology, 2021; 66(3):035027. doi: [10.1088/1361-6560/aba0cc](https://iopscience.iop.org/article/10.1088/1361-6560/aba0cc)
 
-### 2020
+## 2020
 **Naughton N**, Tennyson CG, and Georgiadis JG. *Lattice Boltzmann method for simulation of diffusion magnetic resonance imaging physics in multiphase tissue models*. Physical Review E, 2020; 102(4):043305. doi: [10.1103/PhysRevE.102.043305](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.043305){: target="_blank"}
 
 **Naughton, N** and Georgiadis JG. *Global sensitivity analysis of skeletal muscle dMRI metrics: Effects of microstructural and pulse parameters*. Magnetic Resonance in Medicine; 2020; 83:1458–1470. doi: [10.1002/mrm.28014](https://onlinelibrary.wiley.com/doi/10.1002/mrm.28014){: target="_blank" onClick=”_gaq.push([‘_trackEvent’, ‘downloads’, ‘click’, ‘whitepaper’, ‘0’]);”} 
 
-### 2019
+## 2019
 **Naughton N** and Georgiadis JG. *Comparison of two-compartment exchange and continuum models of dMRI in skeletal muscle*. Physics in Medicine and Biology, 2019; 64(15):155004. doi: [10.1088/1361-6560/ab2aa6](https://doi.org/10.1088/1361-6560/ab2aa6){: target="_blank" onClick=”_gaq.push([‘_trackEvent’, ‘downloads’, ‘click’, ‘whitepaper’, ‘0’]);”}
 
 **Naughton N**, and Georgiadis JG. *Connecting Diffusion MRI to Skeletal Muscle Microstructure: Leveraging Meta-Models and GPU-acceleration*. Proceedings of the Practice and Experience in Advanced Research Computing on Rise of the Machines (learning) (PEARC '19). p7, (July 2019), Chicago, IL, USA. doi: [10.1145/3332186.3333054](https://doi.org/10.1145/3332186.3333054){: target="_blank"}
 
-### 2014
+## 2014
 **Naughton N**, Plourde BD, Stark JR, Hodis S, and Abraham JP. *Impacts of waveforms on the fluid flow, wall shear stress, and flow distribution in cerebral aneurysms and the development of a universal reduced pressure*. Journal of Biomedical Science and Engineering. 2014; 7(01):7. doi: [10.4236/jbise.2014.71002](https://www.scirp.org/journal/PaperInformation.aspx?PaperID=41615){: target="_blank"}. 
 
 <!--
