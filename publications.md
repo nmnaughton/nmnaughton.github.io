@@ -6,7 +6,7 @@ title: Publications
 
 ### Preprints
 
-Shih CH, **Naughton N**, Halder U, Chang HS, Kim SH, Gillette R, Mehta P, and Gazzola M. *Hierarchical control and learning of a foraging CyberOctopus*. ([preprint](/pages/pubs/Shih_Hierarchy)).
+Shih CH, **Naughton N**, Halder U, Chang HS, Kim SH, Gillette R, Mehta P, and Gazzola M. *Hierarchical control and learning of a foraging CyberOctopus*. ([preprint](/pages/pubs/Shih_Hierarchy.pdf)).
 
 
 ### 2023
