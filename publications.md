@@ -6,7 +6,7 @@ title: Publications
 
 ## Preprints
 
-Shih CH, **Naughton N**, Halder U, Chang HS, Kim SH, Gillette R, Mehta P, and Gazzola M. *[Hierarchical control and learning of a foraging CyberOctopus](/pages/pubs/Shih_Hierarchy.pdf){: target="_blank"}*. 
+Shih CH, **Naughton N**, Halder U, Chang HS, Kim SH, Gillette R, Mehta P, and Gazzola M. *[Hierarchical control and learning of a foraging CyberOctopus](https://arxiv.org/abs/2302.05811){: target="_blank"}*. arXiv:2302.05811
 
 ## 2023
 Chang HS, Halder U, Shih CH, **Naughton N**, Gazzola M, and Mehta P. *[Energy Shaping Control of a Muscular Octopus Arm Moving in Three Dimensions](http://doi.org/10.1098/rspa.2022.0593){: target="_blank"}*. Proceedings of the Royal Society A, 2023; 479:20220593 
