@@ -6,7 +6,7 @@ title: Publications
 
 ## Preprints
 
-Tekinapl A, **Naughton N**, Kim SH, Halder U, Gillette R, Mehta PG, Kier W, and Gazzola M. *[Topology, dynamics, and control of an octopus-analog muscular hydrostat](https://arxiv.org/abs/2302.08413){: target="_blank"}*. arXiv:2302.08413
+Tekinapl A, **Naughton N**, Kim SH, Halder U, Gillette R, Mehta PG, Kier W, and Gazzola M. *[Topology, dynamics, and control of an octopus-analog muscular hydrostat](https://arxiv.org/abs/2304.08413){: target="_blank"}*. arXiv:2304.08413
 
 Shih CH, **Naughton N**, Halder U, Chang HS, Kim SH, Gillette R, Mehta PG, and Gazzola M. *[Hierarchical control and learning of a foraging CyberOctopus](https://arxiv.org/abs/2302.05811){: target="_blank"}*. arXiv:2302.05811
 
