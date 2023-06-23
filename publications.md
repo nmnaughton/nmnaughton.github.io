@@ -11,10 +11,11 @@ title: Publications
 
 Tekinapl A, **Naughton N**, Kim SH, Halder U, Gillette R, Mehta PG, Kier W, and Gazzola M. *[Topology, dynamics, and control of an octopus-analog muscular hydrostat](https://arxiv.org/abs/2304.08413){: target="_blank"}*. arXiv:2304.08413
 
-Shih CH, **Naughton N**, Halder U, Chang HS, Kim SH, Gillette R, Mehta PG, and Gazzola M. *[Hierarchical control and learning of a foraging CyberOctopus](https://arxiv.org/abs/2302.05811){: target="_blank"}*. arXiv:2302.05811
 
 ## 2023
-Chang HS, Halder U, Shih CH, **Naughton N**, Gazzola M, and Mehta PG. *[Energy Shaping Control of a Muscular Octopus Arm Moving in Three Dimensions](http://doi.org/10.1098/rspa.2022.0593){: target="_blank"}*. Proceedings of the Royal Society A, 2023; 479:20220593 
+Shih CH, **Naughton N**, Halder U, Chang HS, Kim SH, Gillette R, Mehta PG, and Gazzola M. *[Hierarchical control and learning of a foraging CyberOctopus](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300088){: target="_blank"}*. Advanced Intelligent Systems, 2023; 0:00.
+
+Chang HS, Halder U, Shih CH, **Naughton N**, Gazzola M, and Mehta PG. *[Energy Shaping Control of a Muscular Octopus Arm Moving in Three Dimensions](http://doi.org/10.1098/rspa.2022.0593){: target="_blank"}*. Proceedings of the Royal Society A, 2023; 479:20220593.
 
 ## 2021
 **Naughton N**, Sun J, Tekinalp A, Parthasarathy T, Chowdhary G, and Gazzola M. *[Elastica: A compliant mechanics environment for soft robotic control](https://ieeexplore.ieee.org/document/9369003){: target="_blank"}*. IEEE Robotics and Automation Letters, 2021; 6(2):3389-3396. 
