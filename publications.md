@@ -13,7 +13,7 @@ Tekinapl A, **Naughton N**, Kim SH, Halder U, Gillette R, Mehta PG, Kier W, and 
 
 
 ## 2023
-Shih CH, **Naughton N**, Halder U, Chang HS, Kim SH, Gillette R, Mehta PG, and Gazzola M. *[Hierarchical control and learning of a foraging CyberOctopus](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300088){: target="_blank"}*. Advanced Intelligent Systems, 2023; 0:00.
+Shih CH, **Naughton N**, Halder U, Chang HS, Kim SH, Gillette R, Mehta PG, and Gazzola M. *[Hierarchical control and learning of a foraging CyberOctopus](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300088){: target="_blank"}*. Advanced Intelligent Systems, 2023; 0(00):2300088.
 
 Chang HS, Halder U, Shih CH, **Naughton N**, Gazzola M, and Mehta PG. *[Energy Shaping Control of a Muscular Octopus Arm Moving in Three Dimensions](http://doi.org/10.1098/rspa.2022.0593){: target="_blank"}*. Proceedings of the Royal Society A, 2023; 479:20220593.
 
