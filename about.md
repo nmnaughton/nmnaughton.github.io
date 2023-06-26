@@ -16,14 +16,15 @@ hide_description: true
 # <!--author-->
 ---
 
+UPDATE: I will be beginning as an assistant professor in the [Mechanical Engineering Department](https://me.vt.edu/){: target="_blank"} at Virginia Tech in the Fall of 2023. I am actively recruiting PhD students. If you are interested, please email me with a statement of interest and a copy of your resume/CV at [nnaughton@vt.edu](mailto:nnaughton@vt.edu)
+
+
 ## Hello!
 
 
 <figure style="float: right; padding-left:10px; padding-top:20px;">
 <img src="/assets/img/headshot_2.jpeg" width="250">
 </figure>
-
-UPDATE: I will be beginning as an assistant professor in the [Mechanical Engineering Department](https://me.vt.edu/){: target="_blank"} at Virginia Tech in the Fall of 2023. I am actively recruiting PhD students. If you are interested, please email me with a statement of interest and a copy of your resume/CV at [nnaughton@vt.edu](mailto:nnaughton@vt.edu)
 
 Broadly, I am  interested in how medical imaging (especially MRI) can be used to inform mechanical models of compliant fibrous structures. I believe such models will advance  musculoskeletal health and comparative biology applications while the insights gleaned will provide advanced design and control strategies for soft, compliant robots. I am currently exploring how embodiment is manifested in the complex muscular architecture of an octopus arm. I am working with the [CyberOctopus](https://cyberoctopus.csl.illinois.edu/){: target="_blank"} project, which is developing a computational analog to living octopuses that can adapt, learn, and evolve to novel tasks, situations, and environments. We are developing models of octopus biomechanics and neuro-muscular control using [Elastica](https://cosseratrods.org){: target="_blank"}, which is a software package we are developing for numerical simulations of Cosserat rods. 
 
