@@ -18,7 +18,7 @@ hide_description: true
 
 
 ## Hello!
-
+ 
 
 <figure style="float: right; padding-left:10px; padding-top:20px;">
 <img src="/assets/img/headshot_2.jpeg" width="250">

@@ -1,5 +1,7 @@
 // You can add CSS rules here that will be inlucded in Hydejack's CSS file
 
+
+
 /* Cover Image */
 .cover-banner {
 	height: 100vh;
@@ -18,4 +20,8 @@
 
 .full-width {
   width: 100%;
+}
+
+.sidebar-sticky {
+	max-width: 30rem;
 }
