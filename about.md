@@ -4,12 +4,12 @@
 layout: page
 
 # The title of the page.
-title: About Me
+title: About
 
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
 description: > 
-  About Me
+  About
 
 # You can show the description on the page by deleting this line:
 hide_description: true

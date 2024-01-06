@@ -2,12 +2,12 @@
 layout: page
 
 # The title of the page.
-title: My Research
+title: Research
 
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
 description: >
-  Overview of My Research
+  Overview of Research
 
 # You can show the description on the page by deleting this line:
 hide_description: true
