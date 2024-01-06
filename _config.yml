@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Noel M. Naughton
+title:                 Noel Naughton
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -28,7 +28,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Welcome!
+  Assistant Professor of Mechanical <br> Engineering @ Virginia Tech
 
 # A list of keywords for your blog
 keywords:              [noel, naughton, noel naughton, dMRI, diffusion MRI, MRI, mechanical engineering, octopus, elastica, cosserat rods]
@@ -41,13 +41,13 @@ keywords:              [noel, naughton, noel naughton, dMRI, diffusion MRI, MRI,
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                <Noel> <Naughton>
-  email:               <nnaught2@illinois.edu>
+  email:               <nnaughton@vt.edu>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             About
+  - title:             About Me
     url:               /about/
   - title:             Research
     url:               /research/
